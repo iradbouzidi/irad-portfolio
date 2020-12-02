@@ -6,6 +6,7 @@ import Footer from "./components/Footer/Footer";
 import Profile from "./components/Profile/Profile";
 import Portfolio from "./pages/Portfolio/Portfolio";
 import Resume from "./pages/Resume/Resume";
+import "./App.css";
 
 function App() { 
   return (

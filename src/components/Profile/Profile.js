@@ -1,5 +1,6 @@
 import React from "react";
 import { Typography } from "@material-ui/core";
+import CustomTimeline from "../CustomTimeline/CustomTimeline";
 import irad from "../../assets/images/irad.jpg";
 import "./Profile.css";
 
@@ -16,7 +17,7 @@ function Profile() {
       </figure>
 
       <div className="profile_information">
-        Insert Timeline
+        <CustomTimeline />
         <br />
         <button>any button</button>
       </div>
