@@ -7,8 +7,10 @@ import TimelineItem from "@material-ui/lab/TimelineItem";
 import resumeData from "../../utils/resumeData";
 import PersonOutlineIcon from "@material-ui/icons/PersonOutline";
 import irad from "../../assets/images/irad.jpg";
-import "./Profile.css";
 import TimelineContent from "@material-ui/lab/TimelineContent";
+import CustomButton from "../CustomButton/CustomButton";
+import GetAppIcon from "@material-ui/icons/GetApp";
+import "./Profile.css";
 
 const CustomTimelineItem = ({ title, text, link, icon }) => (
   <TimelineItem>
@@ -56,12 +58,12 @@ function Profile() {
               title={key}
               text={resumeData.socials[key].text}
               link={resumeData.socials[key].link}
-              icon={resumeData.socials[key].icon}
             />
           ))}
         </CustomTimeline>
-        <br />
-        <button>any button</button>
+        <div className={"button_container"}>
+          <CustomButton text={"Download CV"} icon={<GetAppIcon />} />
+        </div>
       </div>
     </div>
   );

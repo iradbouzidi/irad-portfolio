@@ -22,7 +22,7 @@
 }
 
 .profile_image {
-    margin-top: -10%;
+    margin-top: -5%;
     -webkit-clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%);
     clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%)
 }
@@ -57,4 +57,11 @@
 
 .timelineItem_text > span {
     color: black;
+}
+
+.profile .button_container {
+    width: 100%;
+    display: flex !important;
+    justify-content: center;
+    margin-top: 20px;
 }

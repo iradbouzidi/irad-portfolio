@@ -9,7 +9,7 @@ export default {
   title: "IoT & Full Stack Engineer",
   birthday: "19th June 1994",
   email: "irad.bouzidi@esprit.tn",
-  address: "Raoued, Ariana, Tunisia",
+  address: "Ariana, Tunisia",
   phone: "+216 53 774 305",
   socials: {
     Facebook: {
