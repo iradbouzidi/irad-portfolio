@@ -4,12 +4,12 @@ import CustomTimeline, {
   CustomTimelineSeperator,
 } from "../CustomTimeline/CustomTimeline";
 import TimelineItem from "@material-ui/lab/TimelineItem";
-import resumeData from "../../utils/resumeData";
 import PersonOutlineIcon from "@material-ui/icons/PersonOutline";
 import irad from "../../assets/images/irad.jpg";
 import TimelineContent from "@material-ui/lab/TimelineContent";
 import CustomButton from "../CustomButton/CustomButton";
 import GetAppIcon from "@material-ui/icons/GetApp";
+import resumeData from "../../utils/resumeData";
 import "./Profile.css";
 
 const CustomTimelineItem = ({ title, text, link, icon }) => (
@@ -53,15 +53,8 @@ function Profile() {
           <CustomTimelineItem title="Email" text={resumeData.email} />
           <CustomTimelineItem title="Address" text={resumeData.address} />
           <CustomTimelineItem title="Phone" text={resumeData.phone} />
-          {Object.keys(resumeData.socials).map((key) => (
-            <CustomTimelineItem
-              title={key}
-              text={resumeData.socials[key].text}
-              link={resumeData.socials[key].link}
-            />
-          ))}
         </CustomTimeline>
-        <div className={"button_container"}>
+        <div className={"button_container"} style={{ display: "flex" }}>
           <CustomButton text={"Download CV"} icon={<GetAppIcon />} />
         </div>
       </div>
