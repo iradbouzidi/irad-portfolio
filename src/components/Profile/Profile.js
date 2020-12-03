@@ -47,8 +47,6 @@ function Profile() {
 
       <div className="profile_information">
         <CustomTimeline icon={<PersonOutlineIcon />}>
-          <CustomTimelineItem title="Name" text={resumeData.name} />
-          <CustomTimelineItem title="Title" text={resumeData.title} />
           <CustomTimelineItem title="Birthday" text={resumeData.birthday} />
           <CustomTimelineItem title="Email" text={resumeData.email} />
           <CustomTimelineItem title="Address" text={resumeData.address} />

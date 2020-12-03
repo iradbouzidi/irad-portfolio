@@ -6,7 +6,7 @@ import GitHubIcon from "@material-ui/icons/GitHub";
 
 export default {
   name: "Irad Bouzidi",
-  title: "IoT & Full Stack Engineer",
+  title: "IoT Engineer & Full Stack Developer",
   birthday: "19th June 1994",
   email: "irad.bouzidi@esprit.tn",
   address: "Ariana, Tunisia",
