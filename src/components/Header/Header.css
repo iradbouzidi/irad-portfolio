@@ -43,6 +43,10 @@
     margin-right: auto;
 }
 
+.header .header_right > a {
+    text-decoration: none;
+}
+
 .header .header_right > a > .MuiSvgIcon-root {
     font-size: 16px !important;
     margin-right: 12px;

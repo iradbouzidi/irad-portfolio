@@ -58,14 +58,20 @@ function Header({ props }) {
             Portfolio
           </Nav.Link>
         </Nav>
-        
+
         <div className="header_right">
           {Object.keys(resumeData.socials).map((key) => (
             <a href={resumeData.socials[key].link} target={"_blank"}>
               {resumeData.socials[key].icon}
             </a>
           ))}
-          <CustomButton text={"Hire Me"} icon={<Telegram />} />
+          <a className={"hireme_btn"}
+            
+            href={resumeData.socials.Telegram.link}
+            target={"_blank"}
+          >
+            <CustomButton text={"Hire Me"} icon={<Telegram />} />
+          </a>
         </div>
       </Navbar.Collapse>
     </Navbar>

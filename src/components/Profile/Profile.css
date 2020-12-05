@@ -3,6 +3,11 @@
     border-radius: 6px;
     width: 100%;
     display: inline-block;
+    margin-top: -20px;
+    margin-bottom: -10px;
+    position: sticky;
+    transition: smooth;
+    top: 20px;
 }
 
 .profile_name {
@@ -35,7 +40,7 @@
 .profile_information {
     top: 0;
     left: 0;
-    margin: -40px 10px 30px;
+    margin: -40px 10px 30px 10px;
 }
 
 .profile_information .timeline .timeline_content {
@@ -43,11 +48,14 @@
     margin-bottom: 12px;
 }
 
+.profile_information a {
+    text-decoration: none;
+}
+
 .timelineItem_text {
     font-size: 13.5px !important;
     color: #787878 !important;
     font-weight: 400 !important;
-    text-decoration: none;
 }
 
 .timelineItem_text > a {

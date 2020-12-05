@@ -6,7 +6,7 @@
 
 /* Header title */
 .timeline .timeline_header {
-    padding-top: 7px;
+    padding-top: 12px;
 }
 
 .timeline .timeline_firstItem {
@@ -50,5 +50,5 @@
 
 .timeline .timeline_content {
     padding-top: 0px !important;
-    margin-top: 20px;
+    margin-bottom: 20px;
 }
