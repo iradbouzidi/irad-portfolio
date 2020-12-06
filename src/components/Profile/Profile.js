@@ -9,7 +9,6 @@ import irad from "../../assets/images/irad.jpg";
 import TimelineContent from "@material-ui/lab/TimelineContent";
 import CustomButton from "../CustomButton/CustomButton";
 import GetAppIcon from "@material-ui/icons/GetApp";
-import { StickyContainer, Sticky } from "react-sticky";
 import resumeData from "../../utils/resumeData";
 import FileSaver from "file-saver";
 import iradCV from "../../assets/cv/irad-bouzidi-cv.pdf";

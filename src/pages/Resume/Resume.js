@@ -228,8 +228,6 @@ function Resume() {
           </Grid>
         </Grid>
       </Grid>
-
-      <hr color="red"></hr>
     </>
   );
 }

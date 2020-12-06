@@ -6,6 +6,8 @@ import {
   GitHub,
   WebOutlined,
   AssignmentOutlined,
+  YouTube,
+  Language,
 } from "@material-ui/icons";
 
 export default {
@@ -129,6 +131,61 @@ export default {
     {
       title: "SOURCE CONTROL",
       description: ["Git", "GitHub", "SCRUM/Agile"],
+    },
+  ],
+
+  projects: [
+    {
+      tag: "React",
+      image:
+        "https://scontent.ftun1-2.fna.fbcdn.net/v/t1.0-9/110168895_960824731101829_3020308821219707998_o.jpg?_nc_cat=111&ccb=2&_nc_sid=174925&_nc_ohc=GOAgL1nuJZEAX-IWhS-&_nc_ht=scontent.ftun1-2.fna&oh=14bdd8637b55c98d6f60cf2c29ecc47b&oe=5FF47D09",
+      title: "Project 1",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        { link: "https://www.google.com", icon: <YouTube /> },
+        { link: "https://www.google.com", icon: <GitHub /> },
+        { link: "https://www.google.com", icon: <Language /> },
+      ],
+    },
+    {
+      tag: "Python",
+      image:
+        "https://scontent.ftun1-2.fna.fbcdn.net/v/t1.0-9/110168895_960824731101829_3020308821219707998_o.jpg?_nc_cat=111&ccb=2&_nc_sid=174925&_nc_ohc=GOAgL1nuJZEAX-IWhS-&_nc_ht=scontent.ftun1-2.fna&oh=14bdd8637b55c98d6f60cf2c29ecc47b&oe=5FF47D09",
+      title: "Project 1",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        { link: "https://www.google.com", icon: <YouTube /> },
+        { link: "https://www.google.com", icon: <GitHub /> },
+        { link: "https://www.google.com", icon: <Language /> },
+      ],
+    },
+    {
+      tag: "Java",
+      image:
+        "https://scontent.ftun1-2.fna.fbcdn.net/v/t1.0-9/110168895_960824731101829_3020308821219707998_o.jpg?_nc_cat=111&ccb=2&_nc_sid=174925&_nc_ohc=GOAgL1nuJZEAX-IWhS-&_nc_ht=scontent.ftun1-2.fna&oh=14bdd8637b55c98d6f60cf2c29ecc47b&oe=5FF47D09",
+      title: "Project 1",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        { link: "https://www.google.com", icon: <YouTube /> },
+        { link: "https://www.google.com", icon: <GitHub /> },
+        { link: "https://www.google.com", icon: <Language /> },
+      ],
+    },
+    {
+      tag: "Java",
+      image:
+        "https://scontent.ftun1-2.fna.fbcdn.net/v/t1.0-9/110168895_960824731101829_3020308821219707998_o.jpg?_nc_cat=111&ccb=2&_nc_sid=174925&_nc_ohc=GOAgL1nuJZEAX-IWhS-&_nc_ht=scontent.ftun1-2.fna&oh=14bdd8637b55c98d6f60cf2c29ecc47b&oe=5FF47D09",
+      title: "Project 1",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        { link: "https://www.google.com", icon: <YouTube /> },
+        { link: "https://www.google.com", icon: <GitHub /> },
+        { link: "https://www.google.com", icon: <Language /> },
+      ],
     },
   ],
 };

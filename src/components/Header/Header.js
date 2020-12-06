@@ -65,8 +65,8 @@ function Header({ props }) {
               {resumeData.socials[key].icon}
             </a>
           ))}
-          <a className={"hireme_btn"}
-            
+          <a
+            className={"hireme_btn"}
             href={resumeData.socials.Telegram.link}
             target={"_blank"}
           >

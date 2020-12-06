@@ -1,5 +1,6 @@
 import React from "react";
-import { Typography } from "@material-ui/core";
+import { Button, Typography } from "@material-ui/core";
+import ArrowUpwardIcon from "@material-ui/icons/ArrowUpward";
 import resumeData from "../../utils/resumeData";
 
 
@@ -24,7 +25,15 @@ function Footer() {
           <a href="https://www.instagram.com/zina.hendrixx/" target="_blank">
             Zina Sayari
           </a>
-          .
+          .{" "}
+          <Button
+            className={"scrollUp_btn"}
+            onClick={() =>
+              window.scrollTo({ top: 0, left: 0, behavior: "smooth" })
+            }
+          >
+            <ArrowUpwardIcon />
+          </Button>
         </Typography>
       </div>
     </div>

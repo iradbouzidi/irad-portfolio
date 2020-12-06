@@ -21,3 +21,7 @@
     text-decoration: none !important;
     color: var(--main-color);
 }
+
+.scrollUp_btn {
+    background-color: var(--main-color) !important;
+}
