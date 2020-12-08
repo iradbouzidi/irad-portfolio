@@ -89,7 +89,7 @@ export default {
       title: "National High School Diploma",
       description:
         "• National High School Diploma in Computer Science from April 9, 1938 high school.",
-      date: "2000 - 2003",
+      date: "2013",
     },
   ],
 
