@@ -101,7 +101,8 @@ export default {
     },
     {
       title: "Internet of Things",
-      description: "I have been working on web design for 2 years.",
+      description:
+        "I have been working on IoT applications and architecture for 2 years.",
       icon: <Nfc />,
     },
     {
