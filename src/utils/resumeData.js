@@ -218,6 +218,7 @@ export default {
     //#endregion
     //#endregion
 
+    //#region MERN Stack Projects
     //#region Project Smart Trash Monitoring App
     {
       tag: "MERN Stack",
@@ -234,8 +235,30 @@ export default {
       ],
     },
     //#endregion
+    //#endregion
 
     //#region React JS Projects
+    //#region Project Portfolio App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=16Ulse69A3mWMVRTEdijnjL7DCGvh-aaD",
+      title: "Protfolio",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/irad-portfolio",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://irad-portfolio.netlify.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project Covid 19 Tracker App
     {
       tag: "React JS",
