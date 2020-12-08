@@ -183,6 +183,58 @@ export default {
   ],
 
   projects: [
+    //#region MEAN Stack Projects
+    //#region Project Task Manager App
+    {
+      tag: "MEAN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1AGEkWq7ybkdkF92Tppq-cnCARzU3Kziy",
+      title: "Smart Trash Monitoring",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
+          icon: <GitHub />,
+        },
+      ],
+    },
+    //#endregion
+    //#region Project Task Manager App
+    {
+      tag: "MEAN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1mbB05N3bTnhy0Z73mv577f-56AFfqJaL",
+      title: "Task Manager App",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
+          icon: <GitHub />,
+        },
+      ],
+    },
+    //#endregion
+    //#endregion
+
+    //#region Project Smart Trash Monitoring App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1hHjMIkF9j56ki0gCso4uHQdfBfZbo-g5",
+      title: "Smart Trash Monitoring",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
+          icon: <GitHub />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region React JS Projects
     //#region Project Covid 19 Tracker App
     {
@@ -458,20 +510,5 @@ export default {
     },
     //#endregion
     //#endregion
-
-    {
-      tag: "MEAN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1AGEkWq7ybkdkF92Tppq-cnCARzU3Kziy",
-      title: "Smart Trash Monitoring",
-      caption: "short desc",
-      description: "This is my project description",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/python-snake-game",
-          icon: <GitHub />,
-        },
-      ],
-    },
   ],
 };
