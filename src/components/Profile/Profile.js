@@ -10,8 +10,6 @@ import TimelineContent from "@material-ui/lab/TimelineContent";
 import CustomButton from "../CustomButton/CustomButton";
 import GetAppIcon from "@material-ui/icons/GetApp";
 import resumeData from "../../utils/resumeData";
-import FileSaver from "file-saver";
-import iradCV from "../../assets/cv/irad-bouzidi-cv.pdf";
 import "./Profile.css";
 
 const CustomTimelineItem = ({ title, text, link }) => (
@@ -57,11 +55,10 @@ function Profile() {
           <CustomTimelineItem title="Address" text={resumeData.address} />
           <CustomTimelineItem title="Phone" text={resumeData.phone} />
         </CustomTimeline>
-        <div
-          onClick={() => FileSaver.saveAs(iradCV)}
-          className={"button_container"}
-        >
-          <CustomButton text={"Download CV"} icon={<GetAppIcon />} />
+        <div className={"button_container"}>
+          <a href="https://drive.google.com/uc?export=download&id=1VRljVj6XuaEdGHwRQKtO_YtNWabW8pkG">
+            <CustomButton text={"Download CV"} icon={<GetAppIcon />} />
+          </a>
         </div>
       </div>
     </div>

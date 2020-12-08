@@ -9,16 +9,7 @@ import {
   NavDropdown,
 } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import {
-  HomeRounded,
-  SchoolRounded,
-  WorkRounded,
-  Facebook,
-  Instagram,
-  LinkedIn,
-  GitHub,
-  Telegram,
-} from "@material-ui/icons";
+import { HomeRounded, Telegram } from "@material-ui/icons";
 import CustomButton from "../CustomButton/CustomButton";
 import resumeData from "../../utils/resumeData";
 import "./Header.css";
