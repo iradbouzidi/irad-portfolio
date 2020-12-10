@@ -346,7 +346,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/file/d/122nOa8ebj9d_Iy2tjaxF3Q_Dk-iRFyU5/view?usp=sharing",
+        "https://drive.google.com/uc?export=download&id=122nOa8ebj9d_Iy2tjaxF3Q_Dk-iRFyU5",
       title: "Youtube Clone App",
       caption: "short desc",
       description: "This is my project description",
