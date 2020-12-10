@@ -331,11 +331,32 @@ export default {
       links: [
         {
           link:
-            "https://github.com/iradbouzidi/react-tfjs-face-landmark-detection-app  ",
+            "https://github.com/iradbouzidi/react-tfjs-face-landmark-detection-app",
           icon: <GitHub />,
         },
         {
-          link: "https://react-tfjs-face-lm-detect-app.web.app/",
+          link: "https://react-tfjs-face-lm-detect-app.web.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Youtube Clone App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1nZTMpQA8Wj1jiuQTuAJIWjSvBsWw0CzS",
+      title: "Youtube Clone App",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-youtube-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-youtube-app-irad.netlify.app",
           icon: <Language />,
         },
       ],
