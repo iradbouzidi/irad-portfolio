@@ -185,7 +185,7 @@ export default {
 
   projects: [
     //#region MEAN Stack Projects
-    //#region Project Task Manager App
+    //#region Project Smart Trash Monitoring App
     {
       tag: "MEAN Stack",
       image:
@@ -214,24 +214,53 @@ export default {
           link: "https://github.com/iradbouzidi/smart-trash-monitoring",
           icon: <GitHub />,
         },
+        {
+          link: "https://mean-task-manager-app-irad.netlify.app",
+          icon: <Language />,
+        },
       ],
     },
     //#endregion
     //#endregion
 
     //#region MERN Stack Projects
-    //#region Project Smart Trash Monitoring App
+    //#region Project Memories App
     {
       tag: "MERN Stack",
       image:
         "https://drive.google.com/uc?export=download&id=1hHjMIkF9j56ki0gCso4uHQdfBfZbo-g5",
-      title: "Smart Trash Monitoring",
+      title: "Memories",
       caption: "short desc",
       description: "This is my project description",
       links: [
         {
-          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
+          link: "https://github.com/iradbouzidi/mern-memories-app",
           icon: <GitHub />,
+        },
+        {
+          link: "https://mern-memories-app-irad.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project PDF Generator App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1GATK9gGed1U1zXO187ylUZ6NjXjy8ZhD",
+      title: "PDF Generator",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/pdf-generator-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://pdf-generator-app-irad.netlify.app/",
+          icon: <Language />,
         },
       ],
     },
@@ -281,6 +310,49 @@ export default {
     },
     //#endregion
 
+    //#region Project HOT or COLD Game App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1w7Hc-w2A_yDSv6c9ClH0mTRqzqPJPvB3",
+      title: "HOT or COLD Game",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-hot-cold-game-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-hot-cold-game-app.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Face Landmark Detection App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1nZTMpQA8Wj1jiuQTuAJIWjSvBsWw0CzS",
+      title: "Face Landmark Detection App",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link:
+            "https://github.com/iradbouzidi/react-tfjs-face-landmark-detection-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-tfjs-face-lm-detect-app.web.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project Amazon Clone App
     {
       tag: "React JS",
@@ -314,28 +386,6 @@ export default {
         },
         {
           link: "https://react-netflix-app-2f86a.web.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Face Landmark Detection App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1nZTMpQA8Wj1jiuQTuAJIWjSvBsWw0CzS",
-      title: "Face Landmark Detection App",
-      caption: "short desc",
-      description: "This is my project description",
-      links: [
-        {
-          link:
-            "https://github.com/iradbouzidi/react-tfjs-face-landmark-detection-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://react-tfjs-face-lm-detect-app.web.app",
           icon: <Language />,
         },
       ],
