@@ -18,11 +18,19 @@ function Footer() {
       <div className="footer_right">
         <Typography className="footer_copyright">
           Background from {""}
-          <a href="https://www.instagram.com/zs.panda/" target="_blank">
+          <a
+            href="https://www.instagram.com/zs.panda/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Panda ZS
           </a>{" "}
           by {""}
-          <a href="https://www.instagram.com/zina.hendrixx/" target="_blank">
+          <a
+            href="https://www.instagram.com/zina.hendrixx/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Zina Sayari
           </a>
           .{" "}

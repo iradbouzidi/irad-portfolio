@@ -218,7 +218,11 @@ function Resume() {
               <Grid container className={"contactInfo_socialsContainer"}>
                 {Object.keys(resumeData.socials).map((key) => (
                   <Grid item className={"contactInfo_social"}>
-                    <a href={resumeData.socials[key].link} target={"_blank"}>
+                    <a
+                      href={resumeData.socials[key].link}
+                      target={"_blank"}
+                      rel={"noreferrer"}
+                    >
                       {resumeData.socials[key].icon}
                     </a>
                   </Grid>

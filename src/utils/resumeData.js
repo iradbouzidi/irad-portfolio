@@ -10,6 +10,7 @@ import {
   Nfc,
 } from "@material-ui/icons";
 
+// eslint-disable-next-line
 export default {
   name: "Irad Bouzidi",
   title: "IoT Engineer & Full Stack Developer",

@@ -1,17 +1,10 @@
 import React from "react";
-import { Link, NavLink, withRouter } from "react-router-dom";
-import {
-  Button,
-  Form,
-  FormControl,
-  Nav,
-  Navbar,
-  NavDropdown,
-} from "react-bootstrap";
-import "bootstrap/dist/css/bootstrap.min.css";
+import { NavLink, withRouter } from "react-router-dom";
+import { Nav, Navbar } from "react-bootstrap";
 import { HomeRounded, Telegram } from "@material-ui/icons";
 import CustomButton from "../CustomButton/CustomButton";
 import resumeData from "../../utils/resumeData";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./Header.css";
 
 function Header({ props }) {
@@ -33,7 +26,7 @@ function Header({ props }) {
           <Nav.Link
             as={NavLink}
             to={"/"}
-            className={pathName == "/" ? "header_link_active" : "header_link"}
+            className={pathName === "/" ? "header_link_active" : "header_link"}
           >
             Resume
           </Nav.Link>
@@ -43,7 +36,7 @@ function Header({ props }) {
             as={NavLink}
             to={"/portfolio"}
             className={
-              pathName == "/portfolio" ? "header_link_active" : "header_link"
+              pathName === "/portfolio" ? "header_link_active" : "header_link"
             }
           >
             Portfolio
@@ -52,7 +45,11 @@ function Header({ props }) {
 
         <div className="header_right">
           {Object.keys(resumeData.socials).map((key) => (
-            <a href={resumeData.socials[key].link} target={"_blank"}>
+            <a
+              href={resumeData.socials[key].link}
+              target={"_blank"}
+              rel="noreferrer"
+            >
               {resumeData.socials[key].icon}
             </a>
           ))}
@@ -60,6 +57,7 @@ function Header({ props }) {
             className={"hireme_btn"}
             href={resumeData.socials.Telegram.link}
             target={"_blank"}
+            rel="noreferrer"
           >
             <CustomButton text={"Hire Me"} icon={<Telegram />} />
           </a>

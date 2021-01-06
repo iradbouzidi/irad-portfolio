@@ -41,7 +41,7 @@ function Portfolio() {
             label={"All"}
             value={"All"}
             className={
-              tabValue == "All" ? "customTabs_item active" : "customTabs_item"
+              tabValue === "All" ? "customTabs_item active" : "customTabs_item"
             }
           />
           {[...new Set(resumeData.projects.map((item) => item.tag))].map(
@@ -50,7 +50,9 @@ function Portfolio() {
                 label={tag}
                 value={tag}
                 className={
-                  tabValue == tag ? "customTabs_item active" : "customTabs_item"
+                  tabValue === tag
+                    ? "customTabs_item active"
+                    : "customTabs_item"
                 }
               />
             )
@@ -124,6 +126,7 @@ function Portfolio() {
             <a
               href={link.link}
               target={"_blank"}
+              rel="noreferrer"
               className={"projectDialog_icon"}
             >
               {link.icon}
