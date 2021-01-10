@@ -1,75 +1,75 @@
 .profile {
-    background-color: white;
-    border-radius: 6px;
-    width: 100%;
-    display: inline-block;
-    margin-top: -20px;
-    margin-bottom: -10px;
-    position: sticky;
-    transition: smooth;
-    top: 20px;
+  background-color: white;
+  border-radius: 6px;
+  width: 100%;
+  display: inline-block;
+  margin-top: -40px;
+  margin-bottom: -10px;
+  position: sticky;
+  transition: smooth;
+  top: 20px;
 }
 
 .profile_name {
-    line-height: 18px;
-    padding: 20px;
+  line-height: 18px;
+  padding: 20px;
 }
 
 .profile_name .name {
-    text-transform: uppercase;
-    font-size: 17px;
-    font-weight: bold;
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: bold;
 }
 
 .profile_name .title {
-    font-size: 13px;
-    color: #777;
+  font-size: 13px;
+  color: #777;
 }
 
 .profile_image {
-    margin-top: -5%;
-    -webkit-clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%);
-    clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%)
+  margin-top: -5%;
+  -webkit-clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%);
+  clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%);
 }
 
 .profile_image img {
-    width: 100%;
+  width: 100%;
 }
 
 /* Information */
 .profile_information {
-    top: 0;
-    left: 0;
-    margin: -40px 10px 30px 10px;
+  top: 0;
+  left: 0;
+  margin: -40px 10px 30px 10px;
 }
 
 .profile_information .timeline .timeline_content {
-    margin-top: 2px;
-    margin-bottom: 12px;
+  margin-top: 2px;
+  margin-bottom: 12px;
 }
 
 .profile_information a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .timelineItem_text {
-    font-size: 13.5px !important;
-    color: #787878 !important;
-    font-weight: 400 !important;
+  font-size: 13.5px !important;
+  color: #787878 !important;
+  font-weight: 400 !important;
 }
 
 .timelineItem_text > a {
-    color: #787878 !important;
-    text-decoration: none;
+  color: #787878 !important;
+  text-decoration: none;
 }
 
 .timelineItem_text > span {
-    color: black;
+  color: black;
 }
 
 .profile .button_container {
-    width: 100%;
-    display: flex !important;
-    justify-content: center;
-    margin-top: 20px;
+  width: 100%;
+  display: flex !important;
+  justify-content: center;
+  margin-top: 20px;
 }
