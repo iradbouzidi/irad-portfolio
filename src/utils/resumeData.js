@@ -46,9 +46,13 @@ export default {
   },
 
   about_me:
-    "Started earnest brother believe an exposed so. Me he believing daughters if forfeited at furniture. Age again and stuff downs spoke. Late hour new nay able fat each sell. Nor themselves age introduced frequently use unsatiable devonshire get. They why quit guy cold rose deal park. One same they four did ask busy. Reserved opinions fat him nay position. Breakfast as zealously incommode do agreeable furniture. One too nay led fanny allow plate." +
+    "Hello Visitor 🙂 !" +
     "\n\n" +
-    "Quick six blind smart out burst. Perfectly on furniture dejection determine my depending an to. Add short water court fat. Her bachelor honoured perceive securing but desirous ham required. Questions deficient acuteness to engrossed as. Entirely led ten humoured greatest and yourself. Besides ye country on observe. She continue appetite endeavor she judgment interest the met. For she surrounded motionless fat resolution may.",
+    "I am Irad Bouzidi a Tunisian IoT engineering student. I am 26 years old, the older brother for three sisters, raised in a happy and lovely family." +
+    "\n\n" +
+    "My passion with IT and Computers started since i was 13 years old. Started working with sample HTML and CSS websites and gathering more technical skills through time in order to advance in my career. Now as my academic cursus I am doing telecommunications engineering and specialized in IoT (Internet of Things) and wireless networks. Add to that I am a solo learner for programming languages and an Artificial Intelligence, Machine Learning and Deep Learning enthusiast." +
+    "\n\n" +
+    "You are very welcome in my personal portfolio website. Please feel free to take a look at the apps and samples i worked on and also browse my git-hub profile. In order to contact me you are welcomed to fill in the contact form right below or just hit me up on one of my social media accounts. You are able to text/call me through Telegram too.",
 
   experiences: [
     {
@@ -185,89 +189,6 @@ export default {
   ],
 
   projects: [
-    //#region MEAN Stack Projects
-    //#region Project Smart Trash Monitoring App
-    {
-      tag: "MEAN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1AGEkWq7ybkdkF92Tppq-cnCARzU3Kziy",
-      title: "Smart Trash Monitoring",
-      caption: "short desc",
-      description: "This is my project description",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
-          icon: <GitHub />,
-        },
-      ],
-    },
-    //#endregion
-    //#region Project Task Manager App
-    {
-      tag: "MEAN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1mbB05N3bTnhy0Z73mv577f-56AFfqJaL",
-      title: "Task Manager App",
-      caption: "short desc",
-      description: "This is my project description",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://mean-task-manager-app-irad.netlify.app",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-    //#endregion
-
-    //#region MERN Stack Projects
-    //#region Project Memories App
-    {
-      tag: "MERN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1hHjMIkF9j56ki0gCso4uHQdfBfZbo-g5",
-      title: "Memories",
-      caption: "short desc",
-      description: "This is my project description",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/mern-memories-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://mern-memories-app-irad.netlify.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project PDF Generator App
-    {
-      tag: "MERN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1GATK9gGed1U1zXO187ylUZ6NjXjy8ZhD",
-      title: "PDF Generator",
-      caption: "short desc",
-      description: "This is my project description",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/pdf-generator-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://pdf-generator-app-irad.netlify.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-    //#endregion
-
     //#region React JS Projects
     //#region Project Portfolio App
     {
@@ -513,6 +434,89 @@ export default {
         },
         {
           link: "https://react-tinder-app-30619.web.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+    //#endregion
+
+    //#region MEAN Stack Projects
+    //#region Project Smart Trash Monitoring App
+    {
+      tag: "MEAN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1AGEkWq7ybkdkF92Tppq-cnCARzU3Kziy",
+      title: "Smart Trash Monitoring",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
+          icon: <GitHub />,
+        },
+      ],
+    },
+    //#endregion
+    //#region Project Task Manager App
+    {
+      tag: "MEAN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1mbB05N3bTnhy0Z73mv577f-56AFfqJaL",
+      title: "Task Manager App",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://mean-task-manager-app-irad.netlify.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+    //#endregion
+
+    //#region MERN Stack Projects
+    //#region Project Memories App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1hHjMIkF9j56ki0gCso4uHQdfBfZbo-g5",
+      title: "Memories",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/mern-memories-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://mern-memories-app-irad.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project PDF Generator App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1GATK9gGed1U1zXO187ylUZ6NjXjy8ZhD",
+      title: "PDF Generator",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/pdf-generator-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://pdf-generator-app-irad.netlify.app/",
           icon: <Language />,
         },
       ],
