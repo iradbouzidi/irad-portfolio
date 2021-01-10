@@ -232,6 +232,66 @@ export default {
     },
     //#endregion
 
+    //#region Project Amazon Clone App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1Z1QuipHNJtNR5CcQ6JCkpa7JtruezK8t",
+      title: "Amazon Clone App",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-amazon-app",
+          icon: <GitHub />,
+        },
+        { link: "https://clone-irad-682e5.web.app/", icon: <Language /> },
+      ],
+    },
+    //#endregion
+
+    //#region Project Netflix Clone App 1
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1Np9eLWkXis0uXDv0gTJjvMp9objJyCv2",
+      title: "Netflix Clone App 1",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-netflix-app-1",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-netflix-app-1.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Netflix Clone App 2
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1L6ZmBwm63hsqNUryV9BjdlVfy7Hb2uzD",
+      title: "Netflix Clone App 2",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-netflix-app-2",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-netflix-app-2.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project HOT or COLD Game App
     {
       tag: "React JS",
@@ -269,45 +329,6 @@ export default {
         },
         {
           link: "https://react-tfjs-face-lm-detect-app.web.app",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Amazon Clone App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1Z1QuipHNJtNR5CcQ6JCkpa7JtruezK8t",
-      title: "Amazon Clone App",
-      caption: "short desc",
-      description: "This is my project description",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-amazon-app",
-          icon: <GitHub />,
-        },
-        { link: "https://clone-irad-682e5.web.app/", icon: <Language /> },
-      ],
-    },
-    //#endregion
-
-    //#region Project Netflix Clone App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1Np9eLWkXis0uXDv0gTJjvMp9objJyCv2",
-      title: "Netflix Clone App",
-      caption: "short desc",
-      description: "This is my project description",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-netfix-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://react-netflix-app-2f86a.web.app/",
           icon: <Language />,
         },
       ],
@@ -496,6 +517,27 @@ export default {
         },
         {
           link: "https://mern-memories-app-irad.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Chat App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1uqxA0-j00G9Q8rtxnztiZOMDkXHTuho3",
+      title: "Chat App",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/mern-chat-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://mern-chat-app-irad.netlify.app/",
           icon: <Language />,
         },
       ],
