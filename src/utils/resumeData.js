@@ -462,6 +462,27 @@ export default {
     //#endregion
     //#endregion
 
+    //#region Project Tinder Clone App
+    {
+      tag: "Gatsby JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1LMWynINpR0TMNqXL3DW5i6KlY-Vkz1Is",
+      title: "Code Blog App",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/gatsby-blog-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://gatsby-blog-app-irad.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region MEAN Stack Projects
     //#region Project Smart Trash Monitoring App
     {
