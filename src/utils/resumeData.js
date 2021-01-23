@@ -211,45 +211,6 @@ export default {
     },
     //#endregion
 
-    //#region Project Covid 19 Tracker App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1DQe3cFLZr2bLAwXhLkBbsaEA7ZOP-XLp",
-      title: "Covid 19 Tracker App",
-      caption: "short desc",
-      description: "This is my project description",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-covid19-tracker-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://covid19-tracker-app-irad.web.app",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Amazon Clone App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1Z1QuipHNJtNR5CcQ6JCkpa7JtruezK8t",
-      title: "Amazon Clone App",
-      caption: "short desc",
-      description: "This is my project description",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-amazon-app",
-          icon: <GitHub />,
-        },
-        { link: "https://clone-irad-682e5.web.app/", icon: <Language /> },
-      ],
-    },
-    //#endregion
-
     //#region Project Netflix Clone App 1
     {
       tag: "React JS",
@@ -292,6 +253,65 @@ export default {
     },
     //#endregion
 
+    //#region Project Amazon Clone App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1Z1QuipHNJtNR5CcQ6JCkpa7JtruezK8t",
+      title: "Amazon Clone App",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-amazon-app",
+          icon: <GitHub />,
+        },
+        { link: "https://clone-irad-682e5.web.app/", icon: <Language /> },
+      ],
+    },
+    //#endregion
+
+    //#region Project Covid 19 Tracker App 1
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1DQe3cFLZr2bLAwXhLkBbsaEA7ZOP-XLp",
+      title: "Covid 19 Tracker App 1",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-covid19-tracker-app-1",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://covid19-tracker-app-irad.web.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Covid 19 Tracker App 2
+    {
+      tag: "React JS",
+      image: "https://drive.google.com/uc?id=1EudZx9cGyBC4cMC1Bs7xPGvXNXzhwhU1",
+      title: "Covid 19 Tracker App 2",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-covid19-tracker-app-2",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-covid19-tracker-app-2.netlify.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project HOT or COLD Game App
     {
       tag: "React JS",
@@ -307,6 +327,26 @@ export default {
         },
         {
           link: "https://react-hot-cold-game-app.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Advice Generator
+    {
+      tag: "React JS",
+      image: "https://drive.google.com/uc?id=1oUxkY_z_qhGEvy1ZF_ROfcCflt-eMts9",
+      title: "Advice Generator",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-advice-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-advice-app-irad.netlify.app",
           icon: <Language />,
         },
       ],
