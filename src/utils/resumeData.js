@@ -499,7 +499,6 @@ export default {
       ],
     },
     //#endregion
-    //#endregion
 
     //#region Project Tinder Clone App
     {
@@ -520,6 +519,7 @@ export default {
         },
       ],
     },
+    //#endregion
     //#endregion
 
     //#region MEAN Stack Projects
