@@ -56,7 +56,7 @@ export default {
 
   experiences: [
     {
-      title: "Master Thesis Internship at MaibornWolf",
+      title: "Master Thesis Internship at MaibornWolff",
       description:
         "• Evaluation of Edge Computing Platforms and Validation with a Proof of Concept.",
       date: "02/2021 - Present",
