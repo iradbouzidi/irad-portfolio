@@ -56,6 +56,12 @@ export default {
 
   experiences: [
     {
+      title: "Master Thesis Internship at MaibornWolff",
+      description:
+        "• Evaluation of Edge Computing Platforms and Validation with a Proof of Concept.",
+      date: "02/2021 - Present",
+    },
+    {
       title: "Technician Internship at Peta Technology",
       description:
         "• Artificial Intelligence and Machine Learning model for vehicle journey cost prediction (Cross Validation and Grid Search).",
@@ -499,7 +505,6 @@ export default {
       ],
     },
     //#endregion
-    //#endregion
 
     //#region Project Tinder Clone App
     {
@@ -520,6 +525,7 @@ export default {
         },
       ],
     },
+    //#endregion
     //#endregion
 
     //#region MEAN Stack Projects

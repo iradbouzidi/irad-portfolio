@@ -30,7 +30,7 @@ function App() {
                   </Route>
                 </Switch>
               </div>
-            </ScrollToTop >
+            </ScrollToTop>
           </Router>
 
           <Footer />
