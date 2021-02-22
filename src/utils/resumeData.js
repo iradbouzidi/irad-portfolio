@@ -317,6 +317,28 @@ export default {
     },
     //#endregion
 
+    //#region Project Alan AI News App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=19537gNav5z6AeJ-AxqdlnW1YxKtKh7O5",
+      title: "Alan AI News App",
+      caption: "short desc",
+      description: "This is my project description",
+      links: [
+        {
+          link:
+            "https://github.com/iradbouzidi/react-voice-controlled-news-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-voice-controlled-news-app.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project HOT or COLD Game App
     {
       tag: "React JS",
