@@ -56,10 +56,16 @@ export default {
 
   experiences: [
     {
+      title: "IoT Platform - Azure Cloud",
+      description:
+        "• Cloud Architecture Deployment, DevOps, Pipelines and Azure Ressource Management.",
+      date: "08/2021 - Present",
+    },
+    {
       title: "Master Thesis Internship at MaibornWolff",
       description:
         "• Evaluation of Edge Computing Platforms and Validation with a Proof of Concept.",
-      date: "02/2021 - Present",
+      date: "02/2021 - 07/2021",
     },
     {
       title: "Technician Internship at Peta Technology",
@@ -73,13 +79,7 @@ export default {
       description:
         "• Specific model for biopsy images classification based on InceptionV3 (Tensorflow).",
       date: "02/2017 - 07/2017",
-    },
-    {
-      title: "Technician Internship at Regional Hospital",
-      description:
-        "• Maintenance of the establishment's medical platform and installation of a storage backup server.",
-      date: "05/2017 - 07/2017",
-    },
+    }
   ],
 
   educations: [
