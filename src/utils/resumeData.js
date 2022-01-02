@@ -48,7 +48,7 @@ export default {
   about_me:
     "Hello Visitor 🙂 !" +
     "\n\n" +
-    "I am Irad Bouzidi a Tunisian Junior Sofrware Engineer. I am 27 years old, the older brother for three sisters, raised in a happy and lovely family." +
+    "I am Irad Bouzidi a Tunisian Junior Software Engineer. I am 27 years old, the older brother for three sisters, raised in a happy and lovely family." +
     "\n\n" +
     "My passion with IT and Computers started since i was 13 years old. Started working with sample HTML and CSS websites and gathering more technical skills through time in order to advance in my career. Now as my academic cursus I am doing telecommunications engineering and specialized in IoT (Internet of Things) and wireless networks. Add to that I am a solo learner for programming languages and an Artificial Intelligence, Machine Learning and Deep Learning enthusiast." +
     "\n\n" +
@@ -56,7 +56,7 @@ export default {
 
   experiences: [
     {
-      title: "Sofrware Engineer at MaibornWolff",
+      title: "Software Engineer at MaibornWolff",
       description:
         "• IoT Projects, Cloud Architecture Deployment, DevOps, Pipelines, Azure, AWS.",
       date: "08/2021 - Present",
@@ -201,8 +201,9 @@ export default {
       tag: "React JS",
       image: "https://drive.google.com/uc?id=1TKKzuJ3T4fJJn9_JcxOO1ZDgL2jaWQJm",
       title: "Protfolio",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "My Personal Portfolio",
+      description:
+        "This is my personal portfolio where my CV and all my projcts are shared",
       links: [
         {
           link: "https://github.com/iradbouzidi/irad-portfolio",
@@ -222,8 +223,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1Np9eLWkXis0uXDv0gTJjvMp9objJyCv2",
       title: "Netflix Clone App 1",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Netflix Clone Version 1",
+      description:
+        "This project is a Netflix clone that uses the IMDb API to play movies trailers",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-netflix-app-1",
@@ -243,8 +245,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1L6ZmBwm63hsqNUryV9BjdlVfy7Hb2uzD",
       title: "Netflix Clone App 2",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Netflix Clone Version 2",
+      description:
+        "This project is a Netflix clone that uses the IMDb API to play movies trailers and FireBase for user login",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-netflix-app-2",
@@ -264,8 +267,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1Z1QuipHNJtNR5CcQ6JCkpa7JtruezK8t",
       title: "Amazon Clone App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Online Shopping",
+      description:
+        "A clone for Amazon online shopping using FireBase for project hosting and user login",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-amazon-app",
@@ -282,8 +286,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1DQe3cFLZr2bLAwXhLkBbsaEA7ZOP-XLp",
       title: "Covid 19 Tracker App 1",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Covid 19 Tracker Version 1",
+      description:
+        "Project that uses a public API to keep a track on the corona state worldwide",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-covid19-tracker-app-1",
@@ -302,8 +307,9 @@ export default {
       tag: "React JS",
       image: "https://drive.google.com/uc?id=1EudZx9cGyBC4cMC1Bs7xPGvXNXzhwhU1",
       title: "Covid 19 Tracker App 2",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Covid 19 Tracker Version 2",
+      description:
+        "Project that uses a public API to keep a track on the corona state worldwide",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-covid19-tracker-app-2",
@@ -323,8 +329,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=19537gNav5z6AeJ-AxqdlnW1YxKtKh7O5",
       title: "Alan AI News App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "AI News App",
+      description:
+        "New application that uses ALAN AI model to answer to questions",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-voice-controlled-news-app",
@@ -344,8 +351,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1w7Hc-w2A_yDSv6c9ClH0mTRqzqPJPvB3",
       title: "HOT or COLD Game",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Prediction Game",
+      description:
+        "Random number prediciton game where player have to guess to number the game predicted",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-hot-cold-game-app",
@@ -364,8 +372,8 @@ export default {
       tag: "React JS",
       image: "https://drive.google.com/uc?id=1oUxkY_z_qhGEvy1ZF_ROfcCflt-eMts9",
       title: "Advice Generator",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Advice Generator",
+      description: "Advice generator app using an API",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-advice-app",
@@ -385,8 +393,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1nZTMpQA8Wj1jiuQTuAJIWjSvBsWw0CzS",
       title: "Face Landmark Detection App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Landmark Detecotor",
+      description:
+        "ML/AI base ReactJS app that detects face landmarks based on a pre-trained model",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-tfjs-face-landmark-detection-app",
@@ -406,8 +415,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=122nOa8ebj9d_Iy2tjaxF3Q_Dk-iRFyU5",
       title: "Youtube Clone App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Youtube Like App",
+      description:
+        "App that uses the Youtube API to search for videos and play them on screen",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-youtube-app",
@@ -427,8 +437,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1h13sDJNdLzjJr9rR0toJTVCvwj5TAdhV",
       title: "Youtube Thumbnail App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Video Thumbnail",
+      description:
+        "Youtube inspired app that applies thumbnails to videos like on Youtube",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-youtube-thumbnail-app",
@@ -448,8 +459,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1aN7EJK-h6R0692Rg01xAh5rqcnVBEjsC",
       title: "Instagram Clone App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Instagram Inspired",
+      description:
+        "Instagram like app for pictures sharing and comments with user login",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-instagram-app",
@@ -469,8 +481,8 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1s98XVi3SGSIQTvEJB0cMUVnKMV9P07aR",
       title: "Messenger Clone App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Messenger Inspired",
+      description: "Messenger like app for real time chatting with user login",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-messenger-app",
@@ -490,8 +502,8 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1XY7-DH85o89vMKu_Zj51z2tK0pNRoGkd",
       title: "To-Do App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "To Do Notes",
+      description: "A minimalist To-Do app that saves the tasks",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-todo-app",
@@ -511,8 +523,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1onCwtSm2xH8XVEDRepozqx7Di8OeH-Q_",
       title: "Tinder Clone App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Tinder Inspired",
+      description:
+        "Tinder like app to accept/reject people with user login and real time chat implemented",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-tinder-app",
@@ -532,8 +545,8 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1LMWynINpR0TMNqXL3DW5i6KlY-Vkz1Is",
       title: "Code Blog App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Online Blog",
+      description: "Online Blog app about coding based on Gatsby and GraphQL",
       links: [
         {
           link: "https://github.com/iradbouzidi/gatsby-blog-app",
@@ -555,8 +568,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1AGEkWq7ybkdkF92Tppq-cnCARzU3Kziy",
       title: "Smart Trash Monitoring",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Public Trash Monitoring",
+      description:
+        "Trash Monitoring IoT System based on sensors and data collection",
       links: [
         {
           link: "https://github.com/iradbouzidi/smart-trash-monitoring",
@@ -571,8 +585,8 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1mbB05N3bTnhy0Z73mv577f-56AFfqJaL",
       title: "Task Manager App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Task Organizer",
+      description: "Task Manager to organize to do task with user login",
       links: [
         {
           link: "https://github.com/iradbouzidi/smart-trash-monitoring",
@@ -594,8 +608,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1hHjMIkF9j56ki0gCso4uHQdfBfZbo-g5",
       title: "Memories",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Share Memories",
+      description:
+        "Memories sharing app with user login, memory detail, suggested memories and more",
       links: [
         {
           link: "https://github.com/iradbouzidi/mern-memories-app",
@@ -615,8 +630,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1uqxA0-j00G9Q8rtxnztiZOMDkXHTuho3",
       title: "Chat App",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Real Time Chat",
+      description:
+        "Real Time chat with rooms concept for more that 2 participants based on user login",
       links: [
         {
           link: "https://github.com/iradbouzidi/mern-chat-app",
@@ -636,8 +652,8 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1GATK9gGed1U1zXO187ylUZ6NjXjy8ZhD",
       title: "PDF Generator",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Generate PDF from input",
+      description: "PDF Generator example based on user given input in a from",
       links: [
         {
           link: "https://github.com/iradbouzidi/pdf-generator-app",
@@ -659,8 +675,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1Q7CcvIIVbhBH7aHayC1u2i5itlfnV_N8",
       title: "Amazon Price Tracker",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Price Tracker Automation",
+      description:
+        "Selenium Automation Script for price tracking, webscrapping amazon articles",
       links: [
         {
           link: "https://github.com/iradbouzidi/python-amazon-price-tracker",
@@ -676,8 +693,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1szlZpLfgkU322kVeSY9cyYGDaGQlp2xj",
       title: "Car and Pedestrian Tracking Script",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Real Time Street Tracking",
+      description:
+        "Real Time Cars and Pedestrians Trackin AI model using video input or live camera",
       links: [
         {
           link: "https://github.com/iradbouzidi/python-opencv-tracking",
@@ -693,8 +711,8 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1ZPY-bezGjyPAmcJmfKwgvUJAA2WZxp-H",
       title: "Face Detector Script",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Real Time Face Detector",
+      description: "Face Detector AI model using video input or live camera",
       links: [
         {
           link: "https://github.com/iradbouzidi/python-opencv-face-detector",
@@ -710,8 +728,8 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1nPrUjhYEbwtLYidi2o5bSkGCmG1NuSJo",
       title: "Smile Detector Script",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Real Time Smile Detector",
+      description: "Smile Detector AI model using video input or live camera",
       links: [
         {
           link: "https://github.com/iradbouzidi/python-opencv-smile-detector",
@@ -727,8 +745,8 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1XM63hvIgMRc81mLAn3lxgwf9DFZCn3_n",
       title: "Snake Game Script",
-      caption: "short desc",
-      description: "This is my project description",
+      caption: "Classic Snake Game",
+      description: "The legacy of the classic Snake Game we all played as kids",
       links: [
         {
           link: "https://github.com/iradbouzidi/python-snake-game",
