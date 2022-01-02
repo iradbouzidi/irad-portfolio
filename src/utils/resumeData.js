@@ -199,7 +199,8 @@ export default {
     //#region Project Portfolio App
     {
       tag: "React JS",
-      image: "https://drive.google.com/uc?id=1TKKzuJ3T4fJJn9_JcxOO1ZDgL2jaWQJm",
+      image:
+        "https://drive.google.com/uc?export=download&id=1-3ak53hv7dEz_rAaE5V2Gw_pYG_byi6t",
       title: "Protfolio",
       caption: "My Personal Portfolio",
       description:
