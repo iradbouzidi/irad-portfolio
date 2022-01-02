@@ -48,7 +48,7 @@ export default {
   about_me:
     "Hello Visitor 🙂 !" +
     "\n\n" +
-    "I am Irad Bouzidi a Tunisian IoT engineering student. I am 26 years old, the older brother for three sisters, raised in a happy and lovely family." +
+    "I am Irad Bouzidi a Tunisian Junior Sofrware Engineer. I am 27 years old, the older brother for three sisters, raised in a happy and lovely family." +
     "\n\n" +
     "My passion with IT and Computers started since i was 13 years old. Started working with sample HTML and CSS websites and gathering more technical skills through time in order to advance in my career. Now as my academic cursus I am doing telecommunications engineering and specialized in IoT (Internet of Things) and wireless networks. Add to that I am a solo learner for programming languages and an Artificial Intelligence, Machine Learning and Deep Learning enthusiast." +
     "\n\n" +
@@ -56,9 +56,9 @@ export default {
 
   experiences: [
     {
-      title: "IoT Platform - Azure Cloud",
+      title: "Sofrware Engineer at MaibornWolff",
       description:
-        "• Cloud Architecture Deployment, DevOps, Pipelines and Azure Ressource Management.",
+        "• IoT Projects, Cloud Architecture Deployment, DevOps, Pipelines, Azure, AWS.",
       date: "08/2021 - Present",
     },
     {
@@ -79,7 +79,7 @@ export default {
       description:
         "• Specific model for biopsy images classification based on InceptionV3 (Tensorflow).",
       date: "02/2017 - 07/2017",
-    }
+    },
   ],
 
   educations: [
@@ -327,8 +327,7 @@ export default {
       description: "This is my project description",
       links: [
         {
-          link:
-            "https://github.com/iradbouzidi/react-voice-controlled-news-app",
+          link: "https://github.com/iradbouzidi/react-voice-controlled-news-app",
           icon: <GitHub />,
         },
         {
@@ -390,8 +389,7 @@ export default {
       description: "This is my project description",
       links: [
         {
-          link:
-            "https://github.com/iradbouzidi/react-tfjs-face-landmark-detection-app",
+          link: "https://github.com/iradbouzidi/react-tfjs-face-landmark-detection-app",
           icon: <GitHub />,
         },
         {
