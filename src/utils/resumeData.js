@@ -218,6 +218,26 @@ export default {
     },
     //#endregion
 
+    //#region Project Video Chat App
+    {
+      tag: "React JS",
+      image: "THIS IS PLACEHOLDER FOR THE PROJECT IMAGE",
+      title: "Video Chat App",
+      caption: "Video Chat App",
+      description: "",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-video-chat-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "THIS IS PLACEHOLDER FOR THE PROJECT LINK",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project Netflix Clone App 1
     {
       tag: "React JS",
