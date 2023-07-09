@@ -16,35 +16,17 @@ function Footer() {
         </Typography>
       </div>
       <div className="footer_right">
-        <Typography className="footer_copyright">
-          Background from {""}
-          <a
-            href="https://www.instagram.com/zs.panda/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Panda ZS
-          </a>{" "}
-          by {""}
-          <a
-            href="https://www.instagram.com/zina.hendrixx/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Zina Sayari
-          </a>
-          .{" "}
-          <Button
-            className={"scrollUp_btn"}
-            onClick={() =>
-              window.scrollTo({ top: 0, left: 0, behavior: "smooth" })
-            }
-          >
-            <ArrowUpwardIcon />
-          </Button>
-        </Typography>
+
+        <Button
+          className={"scrollUp_btn"}
+          onClick={() =>
+            window.scrollTo({ top: 0, left: 0, behavior: "smooth" })
+          }
+        >
+          <ArrowUpwardIcon />
+        </Button>
       </div>
-    </div>
+    </div >
   );
 }
 
