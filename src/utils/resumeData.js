@@ -221,7 +221,7 @@ export default {
     //#region Project Video Chat App
     {
       tag: "React JS",
-      image: "THIS IS PLACEHOLDER FOR THE PROJECT IMAGE",
+      image: "https://drive.google.com/uc?export=download&id=1H3sZ9_EyNljQr8RhJ7AvQyh0pmhYIuj5",
       title: "Video Chat App",
       caption: "Video Chat App",
       description: "",
@@ -231,7 +231,7 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "THIS IS PLACEHOLDER FOR THE PROJECT LINK",
+          link: "https://react-video-chat-app-client.vercel.app/",
           icon: <Language />,
         },
       ],
@@ -242,7 +242,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1Np9eLWkXis0uXDv0gTJjvMp9objJyCv2",
+        "https://drive.google.com/uc?export=download&id=10VgK_TtzYAzpSYiTP0Ep0LAK1ZEkdgta",
       title: "Netflix Clone App 1",
       caption: "Netflix Clone Version 1",
       description:
@@ -253,59 +253,19 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://react-netflix-app-1.netlify.app/",
+          link: "phttps://react-netflix-app-1.netlify.ap/",
           icon: <Language />,
         },
       ],
     },
     //#endregion
 
-    //#region Project Netflix Clone App 2
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1L6ZmBwm63hsqNUryV9BjdlVfy7Hb2uzD",
-      title: "Netflix Clone App 2",
-      caption: "Netflix Clone Version 2",
-      description:
-        "This project is a Netflix clone that uses the IMDb API to play movies trailers and FireBase for user login",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-netflix-app-2",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://react-netflix-app-2.netlify.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Amazon Clone App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1Z1QuipHNJtNR5CcQ6JCkpa7JtruezK8t",
-      title: "Amazon Clone App",
-      caption: "Online Shopping",
-      description:
-        "A clone for Amazon online shopping using FireBase for project hosting and user login",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-amazon-app",
-          icon: <GitHub />,
-        },
-        { link: "https://clone-irad-682e5.web.app/", icon: <Language /> },
-      ],
-    },
-    //#endregion
 
     //#region Project Covid 19 Tracker App 1
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1DQe3cFLZr2bLAwXhLkBbsaEA7ZOP-XLp",
+        "https://drive.google.com/uc?export=download&id=1kz8bwscjguVGLidrvTFABrKtbAmBo-cI",
       title: "Covid 19 Tracker App 1",
       caption: "Covid 19 Tracker Version 1",
       description:
@@ -316,39 +276,20 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://covid19-tracker-app-irad.web.app",
+          link: "https://react-covid19-tracker-app-1.vercel.app/",
           icon: <Language />,
         },
       ],
     },
     //#endregion
 
-    //#region Project Covid 19 Tracker App 2
-    {
-      tag: "React JS",
-      image: "https://drive.google.com/uc?id=1EudZx9cGyBC4cMC1Bs7xPGvXNXzhwhU1",
-      title: "Covid 19 Tracker App 2",
-      caption: "Covid 19 Tracker Version 2",
-      description:
-        "Project that uses a public API to keep a track on the corona state worldwide",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-covid19-tracker-app-2",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://react-covid19-tracker-app-2.netlify.app",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
+
 
     //#region Project Alan AI News App
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=19537gNav5z6AeJ-AxqdlnW1YxKtKh7O5",
+        "https://drive.google.com/uc?export=download&id=1H0-lzo8Azctdv0xtckTLdIDk2g0mly0X",
       title: "Alan AI News App",
       caption: "AI News App",
       description:
@@ -359,7 +300,7 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://react-voice-controlled-news-app.netlify.app/",
+          link: "https://react-voice-controlled-news-app.vercel.app/",
           icon: <Language />,
         },
       ],

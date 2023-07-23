@@ -1,0 +1,40 @@
+//#region Project Netflix Clone App 2
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1L6ZmBwm63hsqNUryV9BjdlVfy7Hb2uzD",
+      title: "Netflix Clone App 2",
+      caption: "Netflix Clone Version 2",
+      description:
+        "This project is a Netflix clone that uses the IMDb API to play movies trailers and FireBase for user login",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-netflix-app-2",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-netflix-app-2.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Amazon Clone App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1Z1QuipHNJtNR5CcQ6JCkpa7JtruezK8t",
+      title: "Amazon Clone App",
+      caption: "Online Shopping",
+      description:
+        "A clone for Amazon online shopping using FireBase for project hosting and user login",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-amazon-app",
+          icon: <GitHub />,
+        },
+        { link: "https://clone-irad-682e5.web.app/", icon: <Language /> },
+      ],
+    },
+    //#endregion

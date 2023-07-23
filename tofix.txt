@@ -1,0 +1,20 @@
+//#region Project Covid 19 Tracker App 2
+    {
+      tag: "React JS",
+      image: "https://drive.google.com/uc?id=1EudZx9cGyBC4cMC1Bs7xPGvXNXzhwhU1",
+      title: "Covid 19 Tracker App 2",
+      caption: "Covid 19 Tracker Version 2",
+      description:
+        "Project that uses a public API to keep a track on the corona state worldwide",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-covid19-tracker-app-2",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-covid19-tracker-app-2.netlify.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion

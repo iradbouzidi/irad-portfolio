@@ -59,7 +59,7 @@ function Header({ props }) {
             target={"_blank"}
             rel="noreferrer"
           >
-            <CustomButton text={"Hire Me"} icon={<Telegram />} />
+            <CustomButton text={"Text Me"} icon={<Telegram />} />
           </a>
         </div>
       </Navbar.Collapse>
