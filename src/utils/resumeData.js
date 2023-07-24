@@ -221,7 +221,7 @@ export default {
     //#region Project Video Chat App
     {
       tag: "React JS",
-      image: "https://drive.google.com/uc?export=download&id=1H3sZ9_EyNljQr8RhJ7AvQyh0pmhYIuj5",
+      image: "https://drive.google.com/uc?export=download&id=1KZwfpa4YSnOav-tzmgQevdoyzT0f5hTb",
       title: "Video Chat App",
       caption: "Video Chat App",
       description: "",
@@ -242,7 +242,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=10VgK_TtzYAzpSYiTP0Ep0LAK1ZEkdgta",
+        "https://drive.google.com/uc?export=download&id=1WIc2CpCPgd7S5FxyAoBNHyFMMhMy0Ydh",
       title: "Netflix Clone App 1",
       caption: "Netflix Clone Version 1",
       description:
@@ -265,7 +265,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1kz8bwscjguVGLidrvTFABrKtbAmBo-cI",
+        "https://drive.google.com/uc?export=download&id=1FW9n1iReOb2zxXECrwgKUGumawpwuQhF",
       title: "Covid 19 Tracker App 1",
       caption: "Covid 19 Tracker Version 1",
       description:
@@ -289,7 +289,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1H0-lzo8Azctdv0xtckTLdIDk2g0mly0X",
+        "https://drive.google.com/uc?export=download&id=1k1e5I0Na1_34-6FF4CgDeBfB_oe_mXAQ",
       title: "Alan AI News App",
       caption: "AI News App",
       description:
@@ -311,7 +311,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1w7Hc-w2A_yDSv6c9ClH0mTRqzqPJPvB3",
+        "https://drive.google.com/uc?export=download&id=1dKMwKT0gCc7AtArGE6N_PLZqRl8I4gU0",
       title: "HOT or COLD Game",
       caption: "Prediction Game",
       description:
@@ -322,7 +322,7 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://react-hot-cold-game-app.netlify.app/",
+          link: "https://react-hot-cold-game-app.vercel.app/",
           icon: <Language />,
         },
       ],
@@ -332,7 +332,7 @@ export default {
     //#region Project Advice Generator
     {
       tag: "React JS",
-      image: "https://drive.google.com/uc?id=1oUxkY_z_qhGEvy1ZF_ROfcCflt-eMts9",
+      image: "https://drive.google.com/uc?export=download&id=1JxOI4Rm7GBN_Fk9qmT97RcpqjX9PnAXm",
       title: "Advice Generator",
       caption: "Advice Generator",
       description: "Advice generator app using an API",
@@ -342,7 +342,7 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://react-advice-app-irad.netlify.app",
+          link: "https://react-advice-app-irad.vercel.app/",
           icon: <Language />,
         },
       ],
