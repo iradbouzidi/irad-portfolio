@@ -211,7 +211,7 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://irad-portfolio.netlify.app",
+          link: "https://irad-portfolio.vercel.app",
           icon: <Language />,
         },
       ],
