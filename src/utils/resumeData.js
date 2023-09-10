@@ -260,7 +260,6 @@ export default {
     },
     //#endregion
 
-
     //#region Project Covid 19 Tracker App 1
     {
       tag: "React JS",
@@ -282,8 +281,6 @@ export default {
       ],
     },
     //#endregion
-
-
 
     //#region Project Alan AI News App
     {
@@ -353,7 +350,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1nZTMpQA8Wj1jiuQTuAJIWjSvBsWw0CzS",
+        "https://drive.google.com/uc?export=download&id=12J5p1rFiFJMNBhB_fMnNMH5rE2HBLNGO",
       title: "Face Landmark Detection App",
       caption: "Landmark Detecotor",
       description:
@@ -364,7 +361,7 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://react-tfjs-face-lm-detect-app.web.app",
+          link: "https://react-tfjs-face-landmark-detection-app.vercel.app/",
           icon: <Language />,
         },
       ],
@@ -375,7 +372,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=122nOa8ebj9d_Iy2tjaxF3Q_Dk-iRFyU5",
+        "https://drive.google.com/uc?export=download&id=1JyQ8eYWJwEgj8dXnt2dkZ-vYhsrzikqI",
       title: "Youtube Clone App",
       caption: "Youtube Like App",
       description:
@@ -386,7 +383,7 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://react-youtube-app-irad.netlify.app",
+          link: "https://react-youtube-app-1.vercel.app/",
           icon: <Language />,
         },
       ],
@@ -397,7 +394,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1h13sDJNdLzjJr9rR0toJTVCvwj5TAdhV",
+        "https://drive.google.com/uc?export=download&id=1vuJQOHIdcEilspLOoywdzYcpIHUJ_BFn",
       title: "Youtube Thumbnail App",
       caption: "Video Thumbnail",
       description:
@@ -408,114 +405,7 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://thumbnail-app-irad.web.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Instagram Clone App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1aN7EJK-h6R0692Rg01xAh5rqcnVBEjsC",
-      title: "Instagram Clone App",
-      caption: "Instagram Inspired",
-      description:
-        "Instagram like app for pictures sharing and comments with user login",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-instagram-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://facebook-instagram-clone-9c07c.web.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Messenger Clone App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1s98XVi3SGSIQTvEJB0cMUVnKMV9P07aR",
-      title: "Messenger Clone App",
-      caption: "Messenger Inspired",
-      description: "Messenger like app for real time chatting with user login",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-messenger-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://react-messenger-app-d200c.web.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project To-Do App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1XY7-DH85o89vMKu_Zj51z2tK0pNRoGkd",
-      title: "To-Do App",
-      caption: "To Do Notes",
-      description: "A minimalist To-Do app that saves the tasks",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-todo-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://todo-app-irad-51a26.web.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Tinder Clone App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1onCwtSm2xH8XVEDRepozqx7Di8OeH-Q_",
-      title: "Tinder Clone App",
-      caption: "Tinder Inspired",
-      description:
-        "Tinder like app to accept/reject people with user login and real time chat implemented",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-tinder-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://react-tinder-app-30619.web.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Tinder Clone App
-    {
-      tag: "Gatsby JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1LMWynINpR0TMNqXL3DW5i6KlY-Vkz1Is",
-      title: "Code Blog App",
-      caption: "Online Blog",
-      description: "Online Blog app about coding based on Gatsby and GraphQL",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/gatsby-blog-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://gatsby-blog-app-irad.netlify.app/",
+          link: "https://react-youtube-thumbnail-app.vercel.app/",
           icon: <Language />,
         },
       ],
@@ -541,6 +431,7 @@ export default {
       ],
     },
     //#endregion
+
     //#region Project Task Manager App
     {
       tag: "MEAN Stack",

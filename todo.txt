@@ -38,3 +38,110 @@
       ],
     },
     //#endregion
+
+    //#region Project Instagram Clone App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1aN7EJK-h6R0692Rg01xAh5rqcnVBEjsC",
+      title: "Instagram Clone App",
+      caption: "Instagram Inspired",
+      description:
+        "Instagram like app for pictures sharing and comments with user login",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-instagram-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://facebook-instagram-clone-9c07c.web.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+     //#region Project Messenger Clone App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1s98XVi3SGSIQTvEJB0cMUVnKMV9P07aR",
+      title: "Messenger Clone App",
+      caption: "Messenger Inspired",
+      description: "Messenger like app for real time chatting with user login",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-messenger-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-messenger-app-d200c.web.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project To-Do App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1XY7-DH85o89vMKu_Zj51z2tK0pNRoGkd",
+      title: "To-Do App",
+      caption: "To Do Notes",
+      description: "A minimalist To-Do app that saves the tasks",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-todo-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://todo-app-irad-51a26.web.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Tinder Clone App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1onCwtSm2xH8XVEDRepozqx7Di8OeH-Q_",
+      title: "Tinder Clone App",
+      caption: "Tinder Inspired",
+      description:
+        "Tinder like app to accept/reject people with user login and real time chat implemented",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-tinder-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-tinder-app-30619.web.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Code Blog App
+    {
+      tag: "Gatsby JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1LMWynINpR0TMNqXL3DW5i6KlY-Vkz1Is",
+      title: "Code Blog App",
+      caption: "Online Blog",
+      description: "Online Blog app about coding based on Gatsby and GraphQL",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/gatsby-blog-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://gatsby-blog-app-irad.netlify.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
