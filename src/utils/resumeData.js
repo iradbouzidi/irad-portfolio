@@ -220,27 +220,7 @@ export default {
     //#endregion
 
     //#region React JS Projects
-    //#region Project Portfolio App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1-3ak53hv7dEz_rAaE5V2Gw_pYG_byi6t",
-      title: "Protfolio",
-      caption: "My Personal Portfolio",
-      description:
-        "This is my personal portfolio where my CV and all my projcts are shared",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/irad-portfolio",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://irad-portfolio.vercel.app",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
+
 
     //#region Project Video Chat App
     {
