@@ -145,3 +145,25 @@
       ],
     },
     //#endregion
+
+
+//#region Project Task Manager App
+    {
+      tag: "MEAN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1mbB05N3bTnhy0Z73mv577f-56AFfqJaL",
+      title: "Task Manager App",
+      caption: "Task Organizer",
+      description: "Task Manager to organize to do task with user login",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://mean-task-manager-app-irad.netlify.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion

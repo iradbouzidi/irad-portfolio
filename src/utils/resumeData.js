@@ -198,6 +198,30 @@ export default {
     //#region React JS Projects
     //#region Project Portfolio App
     {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1M_LbkRbO1ttzSqL2f2Nz_9i7qBhW8A3P",
+      title: "Messenger Clone App",
+      caption: "Real-Time Messenger Clone",
+      description:
+        "Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-messenger-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-messenger-app.vercel.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+    //#endregion
+
+    //#region React JS Projects
+    //#region Project Portfolio App
+    {
       tag: "React JS",
       image:
         "https://drive.google.com/uc?export=download&id=1-3ak53hv7dEz_rAaE5V2Gw_pYG_byi6t",
@@ -414,200 +438,15 @@ export default {
     //#endregion
 
     //#region MEAN Stack Projects
-    //#region Project Smart Trash Monitoring App
-    {
-      tag: "MEAN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1AGEkWq7ybkdkF92Tppq-cnCARzU3Kziy",
-      title: "Smart Trash Monitoring",
-      caption: "Public Trash Monitoring",
-      description:
-        "Trash Monitoring IoT System based on sensors and data collection",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
-          icon: <GitHub />,
-        },
-      ],
-    },
-    //#endregion
 
-    //#region Project Task Manager App
-    {
-      tag: "MEAN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1mbB05N3bTnhy0Z73mv577f-56AFfqJaL",
-      title: "Task Manager App",
-      caption: "Task Organizer",
-      description: "Task Manager to organize to do task with user login",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/smart-trash-monitoring",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://mean-task-manager-app-irad.netlify.app",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
+
+
     //#endregion
 
     //#region MERN Stack Projects
-    //#region Project Memories App
-    {
-      tag: "MERN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1hHjMIkF9j56ki0gCso4uHQdfBfZbo-g5",
-      title: "Memories",
-      caption: "Share Memories",
-      description:
-        "Memories sharing app with user login, memory detail, suggested memories and more",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/mern-memories-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://mern-memories-app-irad.netlify.app/",
-          icon: <Language />,
-        },
-      ],
-    },
+    //
     //#endregion
 
-    //#region Project Chat App
-    {
-      tag: "MERN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1uqxA0-j00G9Q8rtxnztiZOMDkXHTuho3",
-      title: "Chat App",
-      caption: "Real Time Chat",
-      description:
-        "Real Time chat with rooms concept for more that 2 participants based on user login",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/mern-chat-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://mern-chat-app-irad.netlify.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
 
-    //#region Project PDF Generator App
-    {
-      tag: "MERN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1GATK9gGed1U1zXO187ylUZ6NjXjy8ZhD",
-      title: "PDF Generator",
-      caption: "Generate PDF from input",
-      description: "PDF Generator example based on user given input in a from",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/pdf-generator-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://pdf-generator-app-irad.netlify.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-    //#endregion
-
-    //#region Python Projects
-    //#region Project Amazon Price Tracker
-    {
-      tag: "Python",
-      image:
-        "https://drive.google.com/uc?export=download&id=1Q7CcvIIVbhBH7aHayC1u2i5itlfnV_N8",
-      title: "Amazon Price Tracker",
-      caption: "Price Tracker Automation",
-      description:
-        "Selenium Automation Script for price tracking, webscrapping amazon articles",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/python-amazon-price-tracker",
-          icon: <GitHub />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Amazon Price Tracker
-    {
-      tag: "Python",
-      image:
-        "https://drive.google.com/uc?export=download&id=1szlZpLfgkU322kVeSY9cyYGDaGQlp2xj",
-      title: "Car and Pedestrian Tracking Script",
-      caption: "Real Time Street Tracking",
-      description:
-        "Real Time Cars and Pedestrians Trackin AI model using video input or live camera",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/python-opencv-tracking",
-          icon: <GitHub />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Face Detector Script
-    {
-      tag: "Python",
-      image:
-        "https://drive.google.com/uc?export=download&id=1ZPY-bezGjyPAmcJmfKwgvUJAA2WZxp-H",
-      title: "Face Detector Script",
-      caption: "Real Time Face Detector",
-      description: "Face Detector AI model using video input or live camera",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/python-opencv-face-detector",
-          icon: <GitHub />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Smile Detector Script
-    {
-      tag: "Python",
-      image:
-        "https://drive.google.com/uc?export=download&id=1nPrUjhYEbwtLYidi2o5bSkGCmG1NuSJo",
-      title: "Smile Detector Script",
-      caption: "Real Time Smile Detector",
-      description: "Smile Detector AI model using video input or live camera",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/python-opencv-smile-detector",
-          icon: <GitHub />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Snake Game Script
-    {
-      tag: "Python",
-      image:
-        "https://drive.google.com/uc?export=download&id=1XM63hvIgMRc81mLAn3lxgwf9DFZCn3_n",
-      title: "Snake Game Script",
-      caption: "Classic Snake Game",
-      description: "The legacy of the classic Snake Game we all played as kids",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/python-snake-game",
-          icon: <GitHub />,
-        },
-      ],
-    },
-    //#endregion
-    //#endregion
   ],
 };
