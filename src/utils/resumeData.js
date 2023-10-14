@@ -195,8 +195,8 @@ export default {
   ],
 
   projects: [
-    //#region React JS Projects
-    //#region Project Portfolio App
+    //#region Next JS Projects
+    //#region Messenger Clone App
     {
       tag: "Next JS",
       image:
@@ -211,7 +211,7 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://next-messenger-app.vercel.app/",
+          link: "https://next-messenger-clone-app.vercel.app",
           icon: <Language />,
         },
       ],
@@ -219,13 +219,34 @@ export default {
     //#endregion
     //#endregion
 
-    //#region React JS Projects
-
+    //#region MERN Stack Projects
+    //#region Memories App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1iA2yiw9dnSLOek257zEGcVTl6XOqpjDa",
+      title: "Memories App",
+      caption: "Social Media App",
+      description:
+        "Build and Deploy a Full Stack MERN Social Media App with Auth, Pagination, Comments | MERN Course",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/mern-memories-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://irad-mern-memories-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
 
     //#region Project Video Chat App
     {
-      tag: "React JS",
-      image: "https://drive.google.com/uc?export=download&id=1KZwfpa4YSnOav-tzmgQevdoyzT0f5hTb",
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1KZwfpa4YSnOav-tzmgQevdoyzT0f5hTb",
       title: "Video Chat App",
       caption: "Video Chat App",
       description: "",
@@ -241,7 +262,9 @@ export default {
       ],
     },
     //#endregion
+    //#endregion
 
+    //#region React JS Projects
     //#region Project Netflix Clone App 1
     {
       tag: "React JS",
@@ -333,7 +356,8 @@ export default {
     //#region Project Advice Generator
     {
       tag: "React JS",
-      image: "https://drive.google.com/uc?export=download&id=1JxOI4Rm7GBN_Fk9qmT97RcpqjX9PnAXm",
+      image:
+        "https://drive.google.com/uc?export=download&id=1JxOI4Rm7GBN_Fk9qmT97RcpqjX9PnAXm",
       title: "Advice Generator",
       caption: "Advice Generator",
       description: "Advice generator app using an API",
@@ -415,18 +439,7 @@ export default {
       ],
     },
     //#endregion
-    //#endregion
-
-    //#region MEAN Stack Projects
-
-
 
     //#endregion
-
-    //#region MERN Stack Projects
-    //
-    //#endregion
-
-
   ],
 };
