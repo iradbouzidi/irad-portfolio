@@ -265,6 +265,28 @@ export default {
     //#endregion
 
     //#region React JS Projects
+    //#region Project E-commerce Shop App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1f9FdfyilHvscCHi9gw4DdWD3Vq0amSvW",
+      title: "E-commerce Shop App",
+      caption: "Build & Deploy an Amazing App | React.js, Commerce.js, Stripe",
+      description:
+        "Learn how to build & deploy a complete eCommerce website. In this video, we're going to build a fully functional eCommerce application using commerce.js.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-ecommerce-shop-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-ecommerce-shop-app.vercel.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project Netflix Clone App 1
     {
       tag: "React JS",
