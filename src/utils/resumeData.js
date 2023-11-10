@@ -220,6 +220,28 @@ export default {
     //#endregion
 
     //#region MERN Stack Projects
+    //#region Real-Time Chat App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1yoOQMlU9Xag9mpD0rQVEaUlf3AyucR8c",
+      title: "Real-Time Chat App",
+      caption: "Full Stack Realtime Chat Messaging App",
+      description:
+        "Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/mern-realtime-chat-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://mern-realtime-chat-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Memories App
     {
       tag: "MERN Stack",
@@ -228,7 +250,7 @@ export default {
       title: "Memories App",
       caption: "Social Media App",
       description:
-        "Build and Deploy a Full Stack MERN Social Media App with Auth, Pagination, Comments | MERN Course",
+        "Full Stack MERN Social Media App with Auth, Pagination, Comments.",
       links: [
         {
           link: "https://github.com/iradbouzidi/mern-memories-app",
