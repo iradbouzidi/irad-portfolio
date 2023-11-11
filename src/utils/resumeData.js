@@ -287,6 +287,28 @@ export default {
     //#endregion
 
     //#region React JS Projects
+    //#region Project Cryptocurrency App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1HJVpwGLmoincWzKStFBB5Csc2XpcUEGp",
+      title: "Cryptocurrency App",
+      caption: "React Cryptocurrency App with Master Redux Toolkit",
+      description:
+        "Advanced React Cryptocurrency App with best practices, State Management using Redux Toolkit, UI Creation using Ant Design, creating charts using Chart.js, and fetching data from multiple sources using RapidAPI ",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-cryptocurrency-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-cryptocurrency-app.vercel.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project E-commerce Shop App
     {
       tag: "React JS",
