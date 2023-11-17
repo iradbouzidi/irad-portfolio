@@ -217,6 +217,29 @@ export default {
       ],
     },
     //#endregion
+
+    //#region Messenger Clone App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1OmYnpVrUaF0nXzKGQWeLJvLKZJ3bo_ZD",
+      title: "CMS Blog App",
+      caption: "Modern Next JS CMS Blog App",
+      description:
+        "Feature-rich Next JS HeadlessCMS Blog App with GraphQL, responsive design, markdown articles, categories, author info and comments.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-cms-blog-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-cms-blog-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#endregion
 
     //#region MERN Stack Projects
