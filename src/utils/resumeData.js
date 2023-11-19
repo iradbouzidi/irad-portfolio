@@ -218,7 +218,7 @@ export default {
     },
     //#endregion
 
-    //#region Messenger Clone App
+    //#region CMS Blog App
     {
       tag: "Next JS",
       image:
@@ -234,6 +234,28 @@ export default {
         },
         {
           link: "https://next-cms-blog-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Real Estate App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1ESpqk9-LKuNzjsMKHU1fVUZ94kIvb4iQ",
+      title: "Real Estate App",
+      caption: "Modern Real Estate App",
+      description:
+        "An amazing Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel and much more,",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-real-estate-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-real-estate-app-client.vercel.app/",
           icon: <Language />,
         },
       ],
