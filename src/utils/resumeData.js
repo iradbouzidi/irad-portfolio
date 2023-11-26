@@ -376,6 +376,27 @@ export default {
     },
     //#endregion
 
+    //#region Project GPT-3 App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1J46PFNqO5L37y0PxfsS35_XdEtWdKINi",
+      title: "GPT-3 App",
+      caption: "Fully Responsive GPT-3 App",
+      description: "Fully Responsive GPT-3 App",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-gpt3-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-gpt3-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project Netflix Clone App 1
     {
       tag: "React JS",
