@@ -573,5 +573,26 @@ export default {
     //#endregion
 
     //#endregion
+
+    //#region Node JS Projects
+    {
+      tag: "Node JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1TZYdl9JL5I-DuuCh-MAKVZm4UXeWLl5s",
+      title: "Amazon Product Scraper API",
+      caption: "Amazon Product Scraper API",
+      description: "Amazon Product Scraper API",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/node-amazon-scraper-api",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://rapidapi.com/iradbouzidi/api/node-amazon-scraper-api",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
   ],
 };
