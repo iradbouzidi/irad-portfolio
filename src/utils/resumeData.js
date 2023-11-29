@@ -376,6 +376,28 @@ export default {
     },
     //#endregion
 
+    //#region Project Restaurant App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1UWg2S-ww3OZIZdmpvm8qRC6eiAHeRHjN",
+      title: "Restaurant App",
+      caption: "Fully Responsive Restaurant App",
+      description:
+        "Fully Responsive Restaurant Website with Modern UI and UX in ReactJS",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-restaurant-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-js-restaurant-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project GPT-3 App
     {
       tag: "React JS",
@@ -383,7 +405,8 @@ export default {
         "https://drive.google.com/uc?export=download&id=1J46PFNqO5L37y0PxfsS35_XdEtWdKINi",
       title: "GPT-3 App",
       caption: "Fully Responsive GPT-3 App",
-      description: "Fully Responsive GPT-3 App",
+      description:
+        "Fully Responsive GPT-3 App Website with Modern UI and UX in ReactJS.",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-gpt3-app",
