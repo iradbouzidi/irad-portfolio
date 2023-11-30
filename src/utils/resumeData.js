@@ -337,10 +337,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1SkPr8lgw3XCNnLAWpcxlURNHQT64X47L",
       title: "Dashboard Admin App",
-      caption:
-        "A React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More",
+      caption: "A React Admin Dashboard App",
       description:
-        "This Admin Panel includes one Dashboard, Three Pages, Four Apps, and Seven fully functional charts!",
+        "Admin Dashboard With Theming, Tables, Charts, Calendar, Kanban and more. This Admin Panel includes one Dashboard, Three Pages, Four Apps, and Seven fully functional charts!",
       links: [
         {
           link: "https://github.com/iradbouzidi/react-dashboard-admin-app",
