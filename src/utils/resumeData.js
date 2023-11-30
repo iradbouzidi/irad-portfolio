@@ -261,7 +261,6 @@ export default {
       ],
     },
     //#endregion
-
     //#endregion
 
     //#region MERN Stack Projects
@@ -332,6 +331,29 @@ export default {
     //#endregion
 
     //#region React JS Projects
+    //#region Project Dashboard Admin App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1SkPr8lgw3XCNnLAWpcxlURNHQT64X47L",
+      title: "Dashboard Admin App",
+      caption:
+        "A React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More",
+      description:
+        "This Admin Panel includes one Dashboard, Three Pages, Four Apps, and Seven fully functional charts!",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-dashboard-admin-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-dashboard-admin-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project Cryptocurrency App
     {
       tag: "React JS",
