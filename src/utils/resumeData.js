@@ -353,6 +353,27 @@ export default {
     },
     //#endregion
 
+    //#region Project Fitness App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1KCe-Fz2KfVQuFIdx0LKdSRbV72wUtWUO",
+      title: "Gym Fitness App",
+      caption: "Fitness Exercises App With APIs",
+      description: "Modern Fitness Exercises App using two separate APIs!",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-fitness-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-gym-fitness-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project Cryptocurrency App
     {
       tag: "React JS",
