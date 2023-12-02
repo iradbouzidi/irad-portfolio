@@ -353,6 +353,28 @@ export default {
     },
     //#endregion
 
+    //#region Project Dashboard Admin App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1W9QRI4P5apKsgqDV-hkyB0RBkAaH_c2m",
+      title: "Chat App",
+      caption: "A Teams like Chat App",
+      description:
+        "With online statuses, great design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create multiple rooms and much more; this chat app is like no other!",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-chat-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://reactjs-chat-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project Fitness App
     {
       tag: "React JS",
