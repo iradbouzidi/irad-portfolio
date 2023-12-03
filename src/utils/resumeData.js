@@ -484,6 +484,28 @@ export default {
     },
     //#endregion
 
+    //#region Project E-commerce Shop App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1SluHkW_h8-3YgVlzzbU0wf_w3lk-xGyn",
+      title: "Business Landing App",
+      caption: "Fully Responsive Website with Modern UI/UX",
+      description:
+        "Responsive React JS application consisting of a stunning hero section, high-quality assets and gradients, business stats, reusable feature sections with call-to-action buttons, testimonials and more!",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-business-landing-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-business-landing-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project Restaurant App
     {
       tag: "React JS",
