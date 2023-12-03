@@ -218,6 +218,28 @@ export default {
     },
     //#endregion
 
+    //#region E-commerce Shop App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1QxU9UnB3kmnO5z20WS7f8kqUo3_OhLOK",
+      title: "E-commerce Shop App",
+      caption: "Full Stack ECommerce Application with Stripe",
+      description:
+        "E-commerce app that includes modern design and animations, the ability to add and edit products on the go using a Sanity, all advanced cart, and checkout functionalities, and most importantly, the complete integration with Stripe so that you can cover real payments.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-ecommerce-shop-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-ecommerce-shop-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region CMS Blog App
     {
       tag: "Next JS",
