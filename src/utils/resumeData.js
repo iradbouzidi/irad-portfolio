@@ -224,7 +224,7 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1vrd6F-FgB5keUhl89olMohTycw1WORv7",
       title: "TikTok Clone App",
-      caption: "Full Stack ECommerce Application with Stripe",
+      caption: "Full Stack TikTok Clone Application",
       description:
         "TikTok Clone Application includes Google Auth, the ability to upload, publish, share, comment on, and like the videos; filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design and much more.",
       links: [
