@@ -484,7 +484,7 @@ export default {
     },
     //#endregion
 
-    //#region Project E-commerce Shop App
+    //#region Project Business Landing App
     {
       tag: "React JS",
       image:
