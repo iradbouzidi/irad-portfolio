@@ -397,7 +397,7 @@ export default {
     },
     //#endregion
 
-    //#region Project Dashboard Admin App
+    //#region Project Chat App
     {
       tag: "React JS",
       image:
@@ -413,6 +413,28 @@ export default {
         },
         {
           link: "https://reactjs-chat-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Youtube Clone App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1Nl26WuI5Cd9iY-MVki9H3Txfw_T0XrXw",
+      title: "YouTube Clone Application",
+      caption: "A modern YouTube Clone Application ",
+      description:
+        "A responsive React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your YouTube Clone App!",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-youtube-clone-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-youtube-clone-app.vercel.app",
           icon: <Language />,
         },
       ],
@@ -680,51 +702,6 @@ export default {
       ],
     },
     //#endregion
-
-    //#region Project Youtube Clone App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1JyQ8eYWJwEgj8dXnt2dkZ-vYhsrzikqI",
-      title: "Youtube Clone App",
-      caption: "Youtube Like App",
-      description:
-        "App that uses the Youtube API to search for videos and play them on screen",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-youtube-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://react-youtube-app-1.vercel.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region Project Youtube Thumbnail App
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1vuJQOHIdcEilspLOoywdzYcpIHUJ_BFn",
-      title: "Youtube Thumbnail App",
-      caption: "Video Thumbnail",
-      description:
-        "Youtube inspired app that applies thumbnails to videos like on Youtube",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-youtube-thumbnail-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://react-youtube-thumbnail-app.vercel.app/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
     //#endregion
 
     //#region Node JS Projects
