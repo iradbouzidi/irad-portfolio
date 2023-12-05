@@ -308,28 +308,6 @@ export default {
     //#endregion
 
     //#region MERN Stack Projects
-    //#region Real-Time Chat App
-    {
-      tag: "MERN Stack",
-      image:
-        "https://drive.google.com/uc?export=download&id=1yoOQMlU9Xag9mpD0rQVEaUlf3AyucR8c",
-      title: "Real-Time Chat App",
-      caption: "Full Stack Realtime Chat Messaging App",
-      description:
-        "Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications.",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/mern-realtime-chat-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://mern-realtime-chat-app.vercel.app",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
     //#region Memories App
     {
       tag: "MERN Stack",
@@ -346,6 +324,50 @@ export default {
         },
         {
           link: "https://irad-mern-memories-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region MERN AI Image Generation App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1A8wiStMeJuOxouUjZ9GdobKcNk15PJ0T",
+      title: "MERN AI Image Generation App",
+      caption: "Full Stack MERN AI Image Generation App",
+      description:
+        "MidJourney and DALL-E are taking over social media. Dive into the world of artificial intelligence with this MERN Stack version of these tools that can generate everything from memes and art to beautiful UI/UX designs!",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/mern-memories-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://irad-mern-memories-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Real-Time Chat App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1yoOQMlU9Xag9mpD0rQVEaUlf3AyucR8c",
+      title: "Real-Time Chat App",
+      caption: "Full Stack Realtime Chat Messaging App",
+      description:
+        "Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/mern-realtime-chat-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://mern-realtime-chat-app.vercel.app",
           icon: <Language />,
         },
       ],
