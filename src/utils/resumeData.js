@@ -375,12 +375,34 @@ export default {
     },
     //#endregion
 
+    //#region Project AI 3D App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=15g_LsjJVO4TuUptHwvHHDwE7mvHtB4FM",
+      title: "AI-Powered 3D App",
+      caption: "AI-Powered T-Shirt 3D App",
+      description:
+        "ThreeJS 3D product website infused with the power of artificial intelligence!",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/mern-ai-3d-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://mern-ai-3d-app-client.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region MERN AI Image Generation App
     {
       tag: "MERN Stack",
       image:
         "https://drive.google.com/uc?export=download&id=1A8wiStMeJuOxouUjZ9GdobKcNk15PJ0T",
-      title: "MERN AI Image Generation App",
+      title: "AI Image Generation App",
       caption: "Full Stack MERN AI Image Generation App",
       description:
         "MidJourney and DALL-E are taking over social media. Dive into the world of artificial intelligence with this MERN Stack version of these tools that can generate everything from memes and art to beautiful UI/UX designs!",
