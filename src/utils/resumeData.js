@@ -292,7 +292,7 @@ export default {
       title: "Real Estate App",
       caption: "Modern Real Estate App",
       description:
-        "An amazing Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel and much more,",
+        "An amazing Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel and much more.",
       links: [
         {
           link: "https://github.com/iradbouzidi/next-real-estate-app",
@@ -300,6 +300,28 @@ export default {
         },
         {
           link: "https://next-real-estate-app-client.vercel.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project Metaverse Landing App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1r78G0Gpezq4WDNO-_2KmFY9lq0Mb8_NW",
+      title: "Metaverse Landing App",
+      caption: "Modern Website With Framer Motion & Tailwind CSS",
+      description:
+        "A fully functioning website using Next13, Framer Motion and Tailwind CSS.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-metaverse-concept-landing-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-metaverse-concept-landing-app.vercel.app",
           icon: <Language />,
         },
       ],
