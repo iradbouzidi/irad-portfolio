@@ -330,6 +330,29 @@ export default {
     },
     //#endregion
 
+    //#region Project Dashboard App
+    {
+      tag: "MERN Stack",
+      image:
+        "https://drive.google.com/uc?export=download&id=1QJiva_KGm1HUgjodhqxBYGrXOVSsBYz5",
+      title: "Dashboard App",
+      caption:
+        "Full Stack MERN Application With CRUD, Auth, and Charts Using Refine",
+      description:
+        "A fully functional full-stack MERN dashboard application with complete CRUD functionalities, authentication, pagination, sorting, filtering and more!",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/mern-dashboard-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://mern-dashboard-app-client.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region MERN AI Image Generation App
     {
       tag: "MERN Stack",
