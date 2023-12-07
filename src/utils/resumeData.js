@@ -530,6 +530,28 @@ export default {
     },
     //#endregion
 
+    //#region Project Youtube Clone App
+    {
+      tag: "React JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1UDpqp1FpvtgW_2f9_Y-Kp62nxSmb1Z-L",
+      title: "AI Article Summarizer",
+      caption: "AI Article Summarizer usin Rapid-API",
+      description:
+        "An Article Summarizer Application using OpenAI's GPT model.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/react-ai-summarizer-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://react-ai-summarizer-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Project Fitness App
     {
       tag: "React JS",
