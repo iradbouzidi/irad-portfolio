@@ -240,6 +240,28 @@ export default {
     },
     //#endregion
 
+    //#region Project
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1nGY-Fzr1yKZ7dZkIBzc7K61UZYaYHxSc",
+      title: "AI Prompt Sharing App",
+      caption: "A Next-JS AI Prompt Sharing App",
+      description:
+        "Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-ai-prompt-sharing-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-ai-prompt-sharing-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region E-commerce Shop App
     {
       tag: "Next JS",
