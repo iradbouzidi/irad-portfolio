@@ -1,7 +1,5 @@
 import React from "react";
 import {
-  Facebook,
-  Instagram,
   LinkedIn,
   GitHub,
   WebOutlined,
@@ -20,16 +18,6 @@ export default {
   phone: "+216 53 774 305",
 
   socials: {
-    Facebook: {
-      link: "https://www.facebook.com/b.irad1994",
-      text: "/b.irad1994",
-      icon: <Facebook />,
-    },
-    Instagram: {
-      link: "https://www.instagram.com/iradove_xo",
-      text: "/iradove_xo",
-      icon: <Instagram />,
-    },
     LinkedIn: {
       link: "https://www.linkedin.com/in/irad-bouzidi",
       text: "/irad-bouzidi",
@@ -39,9 +27,6 @@ export default {
       link: "https://github.com/iradbouzidi",
       text: "/iradbouzidi",
       icon: <GitHub />,
-    },
-    Telegram: {
-      link: "https://t.me/irad_bouzidi",
     },
   },
 
