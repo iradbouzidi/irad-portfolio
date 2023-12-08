@@ -284,22 +284,23 @@ export default {
     },
     //#endregion
 
-    //#region CMS Blog App
+    //#region Project Car Showcase App
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1OmYnpVrUaF0nXzKGQWeLJvLKZJ3bo_ZD",
-      title: "CMS Blog App",
-      caption: "Modern Next JS CMS Blog App",
+        "https://drive.google.com/uc?export=download&id=1QxU9UnB3kmnO5z20WS7f8kqUo3_OhLOK",
+      title: "Car Showcase App",
+      caption:
+        "CarHub NextJS Application with Car RapidAPI and imagin-studio API for car images.",
       description:
-        "Feature-rich Next JS HeadlessCMS Blog App with GraphQL, responsive design, markdown articles, categories, author info and comments.",
+        "Find, book, rent a car—quick and super easy! Streamline your car rental experience with our effortless booking process.",
       links: [
         {
-          link: "https://github.com/iradbouzidi/next-cms-blog-app",
+          link: "https://github.com/iradbouzidi/next-car-showcase-app",
           icon: <GitHub />,
         },
         {
-          link: "https://next-cms-blog-app.vercel.app",
+          link: "https://next-car-showcase-app.vercel.app",
           icon: <Language />,
         },
       ],
@@ -322,6 +323,28 @@ export default {
         },
         {
           link: "https://next-real-estate-app-client.vercel.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region CMS Blog App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1OmYnpVrUaF0nXzKGQWeLJvLKZJ3bo_ZD",
+      title: "CMS Blog App",
+      caption: "Modern Next JS CMS Blog App",
+      description:
+        "Feature-rich Next JS HeadlessCMS Blog App with GraphQL, responsive design, markdown articles, categories, author info and comments.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-cms-blog-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-cms-blog-app.vercel.app",
           icon: <Language />,
         },
       ],
