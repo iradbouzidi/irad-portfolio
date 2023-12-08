@@ -288,7 +288,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1QxU9UnB3kmnO5z20WS7f8kqUo3_OhLOK",
+        "https://drive.google.com/uc?export=download&id=1gk4hxGM1-nKgilwizohUUVoj8loPvbCx",
       title: "Car Showcase App",
       caption:
         "CarHub NextJS Application with Car RapidAPI and imagin-studio API for car images.",
