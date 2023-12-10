@@ -11,10 +11,10 @@ import {
 // eslint-disable-next-line
 export default {
   name: "Irad Bouzidi",
-  title: "IoT Engineer & Full Stack Developer",
+  title: "Full-Stack Software Engineer",
   birthday: "19th June 1994",
-  email: "irad.bouzidi@esprit.tn",
-  address: "Ariana, Tunisia",
+  email: "b.irad1994@gmail.com",
+  address: "Tunis, Tunisia",
   phone: "+216 53 774 305",
 
   socials: {
@@ -31,13 +31,17 @@ export default {
   },
 
   about_me:
-    "Hello Visitor 🙂 !" +
+    "Hello There 🙂 !" +
     "\n\n" +
-    "I am Irad Bouzidi a Tunisian Junior Software Engineer. I am 27 years old, the older brother for three sisters, raised in a happy and lovely family." +
+    "I am Irad Bouzidi a Full-Stack Software Engineer." +
     "\n\n" +
-    "My passion with IT and Computers started since i was 13 years old. Started working with sample HTML and CSS websites and gathering more technical skills through time in order to advance in my career. Now as my academic cursus I am doing telecommunications engineering and specialized in IoT (Internet of Things) and wireless networks. Add to that I am a solo learner for programming languages and an Artificial Intelligence, Machine Learning and Deep Learning enthusiast." +
+    "As a dynamic and dedicated Full Stack Software Engineer with three years of hands-on experience in the IT world, I thrive in crafting innovative solutions that integrate cutting-edge technologies. Proficient in Java 17, TypeScript, and adept with cloud platforms like Azure and AWS, I specialize in developing scalable applications. My expertise in Docker, micro-frontends, and CI/CD pipelines, including GitHub Actions and GitLab CI/CD, underscores my commitment to delivering high-quality, efficient, and robust software solutions. I excel in collaborative environments, leveraging my skills to drive impactful projects that seamlessly bridge the gap between development and deployment." +
     "\n\n" +
-    "You are very welcome in my personal portfolio website. Please feel free to take a look at the apps and samples i worked on and also browse my git-hub profile. In order to contact me you are welcomed to fill in the contact form right below or just hit me up on one of my social media accounts. You are able to text/call me through Telegram too.",
+    "Passionate about innovation and driven by a continuous learning mindset, I am poised to contribute my expertise to dynamic teams in driving technological advancements and achieving project success." +
+    "\n\n" +
+    "You are very welcome in my personal portfolio website. Please feel free to take a look at the apps and samples i worked on and also browse my git-hub profile." +
+    "\n\n" +
+    "Don't hesitate to download my resume and send an email!",
 
   experiences: [
     {
@@ -51,12 +55,6 @@ export default {
       description:
         "• Evaluation of Edge Computing Platforms and Validation with a Proof of Concept.",
       date: "02/2021 - 07/2021",
-    },
-    {
-      title: "Technician Internship at Peta Technology",
-      description:
-        "• Artificial Intelligence and Machine Learning model for vehicle journey cost prediction (Cross Validation and Grid Search).",
-      date: "07/2019 - 09/2019",
     },
     {
       title:
@@ -80,12 +78,6 @@ export default {
       description:
         "• Bachelor Degree in Information Technology from University of Sciences and Techniques of Sidi Bouzid.",
       date: "09/2013 - 06/2017",
-    },
-    {
-      title: "National High School Diploma",
-      description:
-        "• National High School Diploma in Computer Science from April 9, 1938 high school.",
-      date: "2013",
     },
   ],
 
@@ -155,27 +147,9 @@ export default {
       title: "DevOps",
       description: ["Dockerization", "Microservices", "Network Virtualization"],
     },
-
-    {
-      title: "NETWORKS",
-      description: [
-        "Cellular Network",
-        "Wireless Sensor Network",
-        "Software-Defined Networks",
-        "Radio-Frequency IDentification",
-      ],
-    },
     {
       title: "OPERATING SYSTEMS",
       description: ["Linux", "Unix", "Embedded Linux"],
-    },
-    {
-      title: "PROBLEM SOLVING",
-      description: ["Graph Theory", "Linear Programming"],
-    },
-    {
-      title: "DIGITAL SIGNALS",
-      description: ["Signal Tr/Tx", "Signal Processing"],
     },
   ],
 

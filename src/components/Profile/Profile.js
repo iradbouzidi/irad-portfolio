@@ -56,8 +56,8 @@ function Profile() {
           <CustomTimelineItem title="Phone" text={resumeData.phone} />
         </CustomTimeline>
         <div className={"button_container"}>
-          <a href="https://drive.google.com/uc?export=download&id=1VRljVj6XuaEdGHwRQKtO_YtNWabW8pkG">
-            <CustomButton text={"Download CV"} icon={<GetAppIcon />} />
+          <a href="https://drive.google.com/uc?export=download&id=1oaf43KKPo2biA6SaijNw1zzuurxm3XzL">
+            <CustomButton text={"Download Resume"} icon={<GetAppIcon />} />
           </a>
         </div>
       </div>

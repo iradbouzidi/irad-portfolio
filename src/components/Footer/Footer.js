@@ -3,7 +3,6 @@ import { Button, Typography } from "@material-ui/core";
 import ArrowUpwardIcon from "@material-ui/icons/ArrowUpward";
 import resumeData from "../../utils/resumeData";
 
-
 import "./Footer.css";
 
 function Footer() {
@@ -12,11 +11,10 @@ function Footer() {
       <div className="footer_left">
         <Typography className="footer_name">
           {resumeData.name}
-          <small> - IoT Engineer & Full Stack Developer</small>
+          <small> - Full-Stack Software Engineer</small>
         </Typography>
       </div>
       <div className="footer_right">
-
         <Button
           className={"scrollUp_btn"}
           onClick={() =>
@@ -26,7 +24,7 @@ function Footer() {
           <ArrowUpwardIcon />
         </Button>
       </div>
-    </div >
+    </div>
   );
 }
 
