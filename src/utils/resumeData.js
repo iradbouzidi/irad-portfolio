@@ -797,28 +797,6 @@ export default {
     },
     //#endregion
 
-    //#region Project Netflix Clone App 1
-    {
-      tag: "React JS",
-      image:
-        "https://drive.google.com/uc?export=download&id=1WIc2CpCPgd7S5FxyAoBNHyFMMhMy0Ydh",
-      title: "Netflix Clone App 1",
-      caption: "Netflix Clone Version 1",
-      description:
-        "This project is a Netflix clone that uses the IMDb API to play movies trailers",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/react-netflix-app-1",
-          icon: <GitHub />,
-        },
-        {
-          link: "phttps://react-netflix-app-1.netlify.ap/",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
     //#region Project Covid 19 Tracker App 1
     {
       tag: "React JS",
