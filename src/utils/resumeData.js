@@ -183,7 +183,7 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1vrd6F-FgB5keUhl89olMohTycw1WORv7",
       title: "TikTok Clone App",
-      caption: "Full Stack TikTok Clone Application",
+      caption: "Next-JS TikTok Clone App",
       description:
         "TikTok Clone Application includes Google Auth, the ability to upload, publish, share, comment on, and like the videos; filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design and much more.",
       links: [
@@ -199,7 +199,95 @@ export default {
     },
     //#endregion
 
-    //#region Project
+    //#region Social Media App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1YWu5pVElbfzAlWKXKdeSoABnY9958uh3",
+      title: "Social Media App",
+      caption: "Next-JS Social Media App",
+      description:
+        "A modern Next-JS Social Media App with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, amazing performance using React JS, Appwrite, TypeScript and more.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-social-media-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-social-media-app-client.vercel.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Threads Clone App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1-6vdU3IPtOPXkuMPNdEWMbnrbfIWTAu9",
+      title: "Threads Clone App",
+      caption: "Next-JS Threads Clone App",
+      description:
+        "A Next-JS 14 Threads Clone App with Clerk, Uploadthing and MongoDB.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-threads-clone-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-threads-clone-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Events App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=13oK_u50_wUajkGmFZQtrQ8nMoQcFCMCL",
+      title: "Events App ",
+      caption: "Next-JS Events App with Stripe, Typescript, Tailwind",
+      description:
+        "An event organization web app with authentication, event management, search, filtering, categories, checkout and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk and Stripe.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-event-platform-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-event-platform-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region E-commerce Admin Dashboard App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1nLxsbEfxzV1RsNco8sfNVf53yXODoKM-",
+      title: "E-commerce Admin Dashboard App",
+      caption: "Next-JS E-Commerce Admin Dashboard App",
+      description:
+        "A Next-JS E-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript and Payload CMS.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-ecommerce-admin-dashboard-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-ecommerce-admin-dashboard-app.payloadcms.app/",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Project AI Prompt Sharing App
     {
       tag: "Next JS",
       image:
@@ -227,9 +315,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1QxU9UnB3kmnO5z20WS7f8kqUo3_OhLOK",
       title: "E-commerce Shop App",
-      caption: "Full Stack ECommerce Application with Stripe",
+      caption: "Next-JS ECommerce Application with Stripe",
       description:
-        "E-commerce app that includes modern design and animations, the ability to add and edit products on the go using a Sanity, all advanced cart, and checkout functionalities, and most importantly, the complete integration with Stripe so that you can cover real payments.",
+        "E-commerce App that includes modern design and animations, the ability to add and edit products on the go using a Sanity, all advanced cart, and checkout functionalities, and most importantly, the complete integration with Stripe so that you can cover real payments.",
       links: [
         {
           link: "https://github.com/iradbouzidi/next-ecommerce-shop-app",
@@ -237,6 +325,28 @@ export default {
         },
         {
           link: "https://next-ecommerce-shop-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region E-commerce Price Tracker App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1sZz5C5AIeZETNfzFSt-bB5LEzEA72VAT",
+      title: "E-commerce Price Tracker App",
+      caption: "Next-JS E-Commerce Price Tracker",
+      description:
+        "E-Commerce price tracker that includes data scraping, cron jobs, sending emails, deployment and more.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-ecommerce-price-tracker-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-ecommerce-price-tracker-app.vercel.app",
           icon: <Language />,
         },
       ],
