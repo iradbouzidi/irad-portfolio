@@ -161,9 +161,9 @@ export default {
       image:
         "https://drive.google.com/uc?export=download&id=1M_LbkRbO1ttzSqL2f2Nz_9i7qBhW8A3P",
       title: "Messenger Clone App",
-      caption: "Real-Time Messenger Clone",
+      caption: "Next-JS Messenger Clone App",
       description:
-        "Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)",
+        "Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.",
       links: [
         {
           link: "https://github.com/iradbouzidi/next-messenger-app",
@@ -171,6 +171,28 @@ export default {
         },
         {
           link: "https://next-messenger-clone-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Airbnb Clone App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1STAHd6iUzhjISguh24WgYW_K6EkJH3SM",
+      title: "Airbnb Clone App",
+      caption: "Next-JS Airbnb Clone App",
+      description:
+        "A Next-JS Airbnb clone application that leverages server-side rendering for seamless performance, integrating dynamic map functionality and personalized user experiences",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-airbnb-clone-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-airbnb-clone-app.vercel.app",
           icon: <Language />,
         },
       ],
