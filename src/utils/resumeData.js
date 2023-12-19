@@ -177,22 +177,22 @@ export default {
     },
     //#endregion
 
-    //#region TikTok Clone App
+    //#region Twitter Clone App
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1vrd6F-FgB5keUhl89olMohTycw1WORv7",
-      title: "TikTok Clone App",
-      caption: "Next-JS TikTok Clone App",
+        "https://drive.google.com/uc?export=download&id=1SKHMN0Ka0hDFv5U4-X5oDGB-VrOVH0tp",
+      title: "Twitter Clone App",
+      caption: "Next-JS Twitter Clone App",
       description:
-        "TikTok Clone Application includes Google Auth, the ability to upload, publish, share, comment on, and like the videos; filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design and much more.",
+        "A Next-JS Twitter clone with Tailwind CSS, Prisma and MongoDB. Also deployed to Vercel! ",
       links: [
         {
-          link: "https://github.com/iradbouzidi/next-tiktok-clone-app",
+          link: "https://github.com/iradbouzidi/next-twitter-clone-app",
           icon: <GitHub />,
         },
         {
-          link: "https://next-tiktok-clone-app.vercel.app",
+          link: "https://next-twitter-clone-app.vercel.app",
           icon: <Language />,
         },
       ],
@@ -215,6 +215,28 @@ export default {
         },
         {
           link: "https://next-netflix-clone-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region TikTok Clone App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1vrd6F-FgB5keUhl89olMohTycw1WORv7",
+      title: "TikTok Clone App",
+      caption: "Next-JS TikTok Clone App",
+      description:
+        "TikTok Clone Application includes Google Auth, the ability to upload, publish, share, comment on, and like the videos; filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design and much more.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-tiktok-clone-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-tiktok-clone-app.vercel.app",
           icon: <Language />,
         },
       ],
