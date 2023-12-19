@@ -188,11 +188,33 @@ export default {
         "TikTok Clone Application includes Google Auth, the ability to upload, publish, share, comment on, and like the videos; filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design and much more.",
       links: [
         {
-          link: "https://github.com/iradbouzidi/next-ecommerce-shop-app",
+          link: "https://github.com/iradbouzidi/next-tiktok-clone-app",
           icon: <GitHub />,
         },
         {
           link: "https://next-tiktok-clone-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Netflix Clone App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1nc5urG99qP_riXbJgZuR5yUkogrQEXUC",
+      title: "Netflix Clone App",
+      caption: "Next-JS Netflix Clone App",
+      description:
+        "A Next-JS powerful and scalable Netflix Clone App using Tailwind CSS, Prisma, MongoDB and NextAuth",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-tiktok-clone-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-netflix-clone-app.vercel.app",
           icon: <Language />,
         },
       ],
