@@ -155,6 +155,28 @@ export default {
 
   projects: [
     //#region Next JS Projects
+    //#region Spotify Clone App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1GusXHWNv0pQMt0fDdi8N2cQdlmaTdY4G",
+      title: "Spotify Clone App",
+      caption: "Next-JS Spotify Clone App",
+      description:
+        "Spotify Clone App: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-spotify-clone-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-spotify-clone-app-client.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region Messenger Clone App
     {
       tag: "Next JS",
