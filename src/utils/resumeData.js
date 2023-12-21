@@ -159,6 +159,50 @@ export default {
     {
       tag: "Next JS",
       image:
+        "https://drive.google.com/uc?export=download&id=10VIZQIzL_HAn3KZGnmwWWL5IMHXbSKRi",
+      title: "E-Commerce Store App",
+      caption: "Next-JS E-Commerce Store App",
+      description:
+        "Next-JS E-Commerce Store App with Next.js 13 App Router, React, Tailwind, Prisma, MySQL.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-ecommerce-app/tree/main/next-ecommerce-store-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-ecommerce-store-app-client.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region E-Commerce Admin App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1esDqO088b6OcFVfzANWgIx2OMOoEm20s",
+      title: "E-Commerce Admin App",
+      caption: "Next-JS E-Commerce Admin App",
+      description:
+        "Next-JS E-Commerce Admin App with Next.js 13 App Router, React, Tailwind, Prisma, MySQL.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-ecommerce-app/tree/main/next-ecommerce-admin-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-ecommerce-admin-app-client.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Spotify Clone App
+    {
+      tag: "Next JS",
+      image:
         "https://drive.google.com/uc?export=download&id=1GusXHWNv0pQMt0fDdi8N2cQdlmaTdY4G",
       title: "Spotify Clone App",
       caption: "Next-JS Spotify Clone App",
@@ -166,11 +210,11 @@ export default {
         "Spotify Clone App: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind.",
       links: [
         {
-          link: "https://github.com/iradbouzidi/next-spotify-clone-app",
+          link: "https://github.com/iradbouzidi/next-ecommerce-app/tree/main/next-ecommerce-store-app",
           icon: <GitHub />,
         },
         {
-          link: "https://next-spotify-clone-app-client.vercel.app",
+          link: "https://next-ecommerce-store-app-client.vercel.app",
           icon: <Language />,
         },
       ],
