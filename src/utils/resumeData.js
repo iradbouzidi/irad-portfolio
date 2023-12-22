@@ -155,7 +155,51 @@ export default {
 
   projects: [
     //#region Next JS Projects
-    //#region Spotify Clone App
+    //#region SaaS AI Companion App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1m6PYuU6MIrEe86r77PPIdrtyOajkHog0",
+      title: "SaaS AI Companion App",
+      caption: "Next-JS SaaS AI Companion App",
+      description:
+        "Next-JS SaaS AI Companion App With Next 13, React, Stripe, Prisma, MySQL, Tailwind.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-saas-ai-companion-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-saas-ai-companion-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region SaaS AI Platform App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1jFdHlkwWdbGJtegTHc0K7GpmXKmL9yhm",
+      title: "SaaS AI Platform App",
+      caption: "Next-JS SaaS AI Platform App",
+      description:
+        "Next-JS SaaS AI Platform App with Next.js 13, React, Tailwind, Prisma, Stripe.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-saas-ai-platform-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-saas-ai-platform-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region E-Commerce Store App
     {
       tag: "Next JS",
       image:
@@ -210,11 +254,11 @@ export default {
         "Spotify Clone App: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind.",
       links: [
         {
-          link: "https://github.com/iradbouzidi/next-ecommerce-app/tree/main/next-ecommerce-store-app",
+          link: "https://github.com/iradbouzidi/next-spotify-clone-app",
           icon: <GitHub />,
         },
         {
-          link: "https://next-ecommerce-store-app-client.vercel.app",
+          link: "https://next-spotify-clone-app.vercel.app",
           icon: <Language />,
         },
       ],
@@ -654,11 +698,11 @@ export default {
         "MidJourney and DALL-E are taking over social media. Dive into the world of artificial intelligence with this MERN Stack version of these tools that can generate everything from memes and art to beautiful UI/UX designs!",
       links: [
         {
-          link: "https://github.com/iradbouzidi/mern-memories-app",
+          link: "https://github.com/iradbouzidi/mern-ai-image-generator-app",
           icon: <GitHub />,
         },
         {
-          link: "https://irad-mern-memories-app.vercel.app",
+          link: "https://mern-ai-image-generator-app.vercel.app",
           icon: <Language />,
         },
       ],
