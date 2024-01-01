@@ -155,6 +155,50 @@ export default {
 
   projects: [
     //#region Next JS Projects
+    //#region LMS Platform App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1xlENChNKPr5Yw_AHLqe07rPfT-NG7tOB",
+      title: "LMS Platform App",
+      caption: "Next-JS Learning Management System Platform App",
+      description:
+        "Next-JS Learning Management System Platform App With Next 13, Stripe, Mux, Prisma, Tailwind and MySQL",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-lms-platform-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-lms-platform-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
+    //#region Discord Clone App
+    {
+      tag: "Next JS",
+      image:
+        "https://drive.google.com/uc?export=download&id=1rWmXRHnzMRr6tmF8_G79CZDhsB4By8Q0",
+      title: "Discord Clone App",
+      caption: "Next-JS Discord Clone App",
+      description:
+        "Next-JS Discord Clone App With Next 13, Socket.io, Prisma, Tailwind, MySQL.",
+      links: [
+        {
+          link: "https://github.com/iradbouzidi/next-discord-clone-app",
+          icon: <GitHub />,
+        },
+        {
+          link: "https://next-discord-clone-app.vercel.app",
+          icon: <Language />,
+        },
+      ],
+    },
+    //#endregion
+
     //#region SaaS AI Companion App
     {
       tag: "Next JS",
