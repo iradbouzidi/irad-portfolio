@@ -159,7 +159,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1xlENChNKPr5Yw_AHLqe07rPfT-NG7tOB",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYR6vMCoyMeeHrwRtfaqDBYVci7T_AMwOM084aWsG4zYdjujfevur8JjgUGXZtn5jZCtcbPUdeG1lOmyThyhjyFOIcH8hQ=s1600",
       title: "LMS Platform App",
       caption: "Next-JS Learning Management System Platform App",
       description:
@@ -181,7 +181,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1rWmXRHnzMRr6tmF8_G79CZDhsB4By8Q0",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSN2Tu6PQf7EDhWAUswp7ZOR5M2zrU40prYY2z1suc2EGyDxiE8L5kQT1XSZ_6fFU2AhPtqQudKE4aO6ecWGkVQhfE-xw=s1600",
       title: "Discord Clone App",
       caption: "Next-JS Discord Clone App",
       description:
@@ -203,7 +203,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1m6PYuU6MIrEe86r77PPIdrtyOajkHog0",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRxR2RuCAtwmnb1A0kzDyw49O9ztAcMHU4M93UI2Sa2HlKRKx_tdScgr-sDmBnHpxfe5vDXFN5auFDyKwHXWyeaGXtFHQ=s1600",
       title: "SaaS AI Companion App",
       caption: "Next-JS SaaS AI Companion App",
       description:
@@ -225,7 +225,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1jFdHlkwWdbGJtegTHc0K7GpmXKmL9yhm",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSTVtWWwGP4RRDE6EXgW5UUQNCWm9UE9iNvhetBQ4_39Qr70_tY_ZSDRtvAnQADuNL-L4Jwq9c_M_kotQi6JQaKofn3lQ=s1600",
       title: "SaaS AI Platform App",
       caption: "Next-JS SaaS AI Platform App",
       description:
@@ -247,7 +247,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=10VIZQIzL_HAn3KZGnmwWWL5IMHXbSKRi",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSUecKUebwKZWGbvRW5tbUW3PJ_0o8psuXOJz1s7K4EudgBxIRCJpDy-XFKVBHfvg88EKHDRsJNyCyrYwuY8NoMc96R6g=s1600",
       title: "E-Commerce Store App",
       caption: "Next-JS E-Commerce Store App",
       description:
@@ -269,7 +269,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1esDqO088b6OcFVfzANWgIx2OMOoEm20s",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRpJEvIV_BnSsuQcgg1yysY6Tq8wuXum6eLKNHRec0EmGTfhQKHoORj8KMWf_37WR29JYZvsn58PI6pcnulNuVSxigutA=s1600",
       title: "E-Commerce Admin App",
       caption: "Next-JS E-Commerce Admin App",
       description:
@@ -291,7 +291,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1GusXHWNv0pQMt0fDdi8N2cQdlmaTdY4G",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYR3oMMEihpw6BrRPgaI3a7VPnBhFOEqw6QG2aEiRAOG497553X_WPhb_QM8ERwq0r87_y0NBpuFOQLjEp17D4vOQYDznQ=s1600",
       title: "Spotify Clone App",
       caption: "Next-JS Spotify Clone App",
       description:
@@ -313,7 +313,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1M_LbkRbO1ttzSqL2f2Nz_9i7qBhW8A3P",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQDEYPO5ym6GjqMqp2zhd-rMKu1Z0_rwmfbCu8_7tfXgvcynJAjCLspb8eUptXtPYvqIusbRBX8s9KhKGB9amSEGRfK=s1600",
       title: "Messenger Clone App",
       caption: "Next-JS Messenger Clone App",
       description:
@@ -335,7 +335,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1STAHd6iUzhjISguh24WgYW_K6EkJH3SM",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSw0tJXRzWhsHKpi_P2n9qY_2O5rxeJNMM-tOBHE68EscoMXzOJ7MWD4esgriDw1KgmMSuwIMbAkPrcKhmmhwFkDDHO=s1600",
       title: "Airbnb Clone App",
       caption: "Next-JS Airbnb Clone App",
       description:
@@ -357,7 +357,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1SKHMN0Ka0hDFv5U4-X5oDGB-VrOVH0tp",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTEzVYSJbEOS1yJ5HDXy9Lmew2SHvOdTUWG6wOga_8qdKk5CS2nOc2GDSetPmkpkSzJRZBuh3r1NpmikkkUcbpwbjaB=s1600",
       title: "Twitter Clone App",
       caption: "Next-JS Twitter Clone App",
       description:
@@ -379,7 +379,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1nc5urG99qP_riXbJgZuR5yUkogrQEXUC",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRksFMKgf9MvHbDV1jSKwcSkZBB6H58VNOHcbcF5pA1g44EE0JeqI17yFWhsO98878JaBnr3f58CLLgk2zDloRQ2100aQ=s1600",
       title: "Netflix Clone App",
       caption: "Next-JS Netflix Clone App",
       description:
@@ -401,7 +401,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1vrd6F-FgB5keUhl89olMohTycw1WORv7",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRh2xNrwt8Jn_83kM_xkpEBGZdKHi93IXAGi2WrIU01oH0RQ5HQ67kqOVmOe69TzJxhR-K7kQQktBw-xyhho0zltNKPJA=s1600",
       title: "TikTok Clone App",
       caption: "Next-JS TikTok Clone App",
       description:
@@ -423,7 +423,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1YWu5pVElbfzAlWKXKdeSoABnY9958uh3",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTpoVWssg_O5awWp8lpGC48OCew3vsqMAvUj4W_RLVuA1fm4jFVhko13UZyXHDJKjZD-GT4p-YT5M7BW3Xxbds-6tcqrQ=s1600",
       title: "Social Media App",
       caption: "Next-JS Social Media App",
       description:
@@ -434,7 +434,7 @@ export default {
           icon: <GitHub />,
         },
         {
-          link: "https://next-social-media-app-client.vercel.app/",
+          link: "https://next-social-media-app-client.vercel.app",
           icon: <Language />,
         },
       ],
@@ -445,7 +445,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1-6vdU3IPtOPXkuMPNdEWMbnrbfIWTAu9",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQ7dhDhnmDi8zDHDKrDfaTc32DPnfq1OLCUgI4ZI3MbxYCWqU6FMTLxXHJn0iMShwWVWzckLpeoCVW2GpxNRq3UW55mrQ=s1600",
       title: "Threads Clone App",
       caption: "Next-JS Threads Clone App",
       description:
@@ -467,7 +467,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=13oK_u50_wUajkGmFZQtrQ8nMoQcFCMCL",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQ1uDT07NJC1L5LYm0CnKQsfMVyI1bWUQU_tBHfhPqaQUGRzFBgswN5PsOigrcEJ93noDvWhREhcC4JfPArTzNWiGbiSA=s1600",
       title: "Events App ",
       caption: "Next-JS Events App with Stripe, Typescript, Tailwind",
       description:
@@ -489,7 +489,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1nLxsbEfxzV1RsNco8sfNVf53yXODoKM-",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRIlqxSdhb73cJcYpp62BPG9qKPx5sAasRGiwH8YWq6P_c3HBI86QNna7tI-wAmVQFC9SK5W7haXdGgMHBrBvJ9svAPjw=s1600",
       title: "E-commerce Admin Dashboard App",
       caption: "Next-JS E-Commerce Admin Dashboard App",
       description:
@@ -511,7 +511,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1nGY-Fzr1yKZ7dZkIBzc7K61UZYaYHxSc",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTCh0C-A8D8ucpL7G2ZJKIrwHBvOJiZ9xrr_UYVk82ilkIZj54dGVXQy7Z_XiF5XiBncjIrZ44TianZiTkGMBZVzTYUJg=s1600",
       title: "AI Prompt Sharing App",
       caption: "A Next-JS AI Prompt Sharing App",
       description:
@@ -533,7 +533,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1QxU9UnB3kmnO5z20WS7f8kqUo3_OhLOK",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRZFTMNc8ZxLqjUe4EtiemRX4Q00rjt5k32oQP1knEjoq2ipRyxS7PPVRACx6C5qKJDEtexyKd9q71265OH4RF40s0VFA=s1600",
       title: "E-commerce Shop App",
       caption: "Next-JS ECommerce Application with Stripe",
       description:
@@ -555,7 +555,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1sZz5C5AIeZETNfzFSt-bB5LEzEA72VAT",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRS8XR4lKLIqpYn93JqE5tlMx0pdl5uJYV6gNCQShxnOIAlhIoMOo-OCLqXbqLJJMiPB4n1uZ7nmo7oOZKiO0vLVG9zgw=s1600",
       title: "E-commerce Price Tracker App",
       caption: "Next-JS E-Commerce Price Tracker",
       description:
@@ -577,7 +577,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1gk4hxGM1-nKgilwizohUUVoj8loPvbCx",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQmw2Xx3H2p9q1lV6FmJfaHJihpGiLxYyE7S8z5z_df38Xrjg9AltQ2C2eo4vssZMBDADyZc4L4YjWaKltGIFiNNw-4UA=s1600",
       title: "Car Showcase App",
       caption:
         "CarHub NextJS Application with Car RapidAPI and imagin-studio API for car images.",
@@ -600,7 +600,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1ESpqk9-LKuNzjsMKHU1fVUZ94kIvb4iQ",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRdd4k3ec20ehGo1zkh7Y6GBOGtEwMOpPVMOh8JtzJBg3HwTwjPlM2hqn8Ucorz4F_29hRv96VPatPZKfbGyDu1OriuTw=s1600",
       title: "Real Estate App",
       caption: "Modern Real Estate App",
       description:
@@ -622,7 +622,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1OmYnpVrUaF0nXzKGQWeLJvLKZJ3bo_ZD",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRVgcGoaz19LaRdyQspSI74hhup_dUOmV7X6Wt_TEJdOQ_ZgfRAyHrVE1nw0g37YmgmzCVYmestd8KvR449HUMEOJjODg=s1600",
       title: "CMS Blog App",
       caption: "Modern Next JS CMS Blog App",
       description:
@@ -644,7 +644,7 @@ export default {
     {
       tag: "Next JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1r78G0Gpezq4WDNO-_2KmFY9lq0Mb8_NW",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYT0Ne4CKSMWVswmz10kERUkX1aPkrHub7jvcgfX2lk9riwnHhP4IBPF9ko3TLWQibfNJqYXz-3Y3enNei71juNzWSs1=s1600",
       title: "Metaverse Landing App",
       caption: "Modern Website With Framer Motion & Tailwind CSS",
       description:
@@ -668,7 +668,7 @@ export default {
     {
       tag: "MERN Stack",
       image:
-        "https://drive.google.com/uc?export=download&id=1iA2yiw9dnSLOek257zEGcVTl6XOqpjDa",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRIR9GFnrXolS_UhOXTt9eMQLDYKeYxWV76TYUpD_JKzxO-RyMViVrtTDN2m5grF0x-hnrnbWAf_uEEIN8VtIYhVSNE=s1600",
       title: "Memories App",
       caption: "Social Media App",
       description:
@@ -690,7 +690,7 @@ export default {
     {
       tag: "MERN Stack",
       image:
-        "https://drive.google.com/uc?export=download&id=1QJiva_KGm1HUgjodhqxBYGrXOVSsBYz5",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQ-4X69CC3UUAg_J_Trdj4I58NAkeWaQUeb8LAfR026nP_YzDGSHEKZHNKvxm1mM73tI_VMvIsZejlpOg3h6eVb2gG67g=s1600",
       title: "Dashboard App",
       caption:
         "Full Stack MERN Application With CRUD, Auth, and Charts Using Refine",
@@ -713,7 +713,7 @@ export default {
     {
       tag: "MERN Stack",
       image:
-        "https://drive.google.com/uc?export=download&id=15g_LsjJVO4TuUptHwvHHDwE7mvHtB4FM",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSUyjmFcDgk2sxiRPaGzoOqCbTyb32plblKmfXeztdgh_dkWrGbZO2FkPCdVq2mSkylCCBYP-mG0XsJ9zh_2T2GQRcqYg=s1600",
       title: "AI-Powered 3D App",
       caption: "AI-Powered T-Shirt 3D App",
       description:
@@ -735,7 +735,7 @@ export default {
     {
       tag: "MERN Stack",
       image:
-        "https://drive.google.com/uc?export=download&id=1A8wiStMeJuOxouUjZ9GdobKcNk15PJ0T",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYS6fh3s3HCp1sdFztsRWIYXeo7Ytog82XweCx8CN3ZysHfdtyW9QSv1ZtT22C3fjuvd1xuAHzTmqqSJfpW_bvS5HW3FkA=s1600",
       title: "AI Image Generation App",
       caption: "Full Stack MERN AI Image Generation App",
       description:
@@ -757,7 +757,7 @@ export default {
     {
       tag: "MERN Stack",
       image:
-        "https://drive.google.com/uc?export=download&id=1yoOQMlU9Xag9mpD0rQVEaUlf3AyucR8c",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQbaXIoO7MGQWd8OlYA_LnzB7ONqC1uKnmIJNGLlfaotrOI8SBcmbMcm_fFjexhAv_x7DO3bn39WqYLX27ugKwzLtfSuA=s1600",
       title: "Real-Time Chat App",
       caption: "Full Stack Realtime Chat Messaging App",
       description:
@@ -779,7 +779,7 @@ export default {
     {
       tag: "MERN Stack",
       image:
-        "https://drive.google.com/uc?export=download&id=1KZwfpa4YSnOav-tzmgQevdoyzT0f5hTb",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQpVb42H01gtrzDIjEZKjDI0JaA8q9aU_pv2-kLgDP-l_Tdl9t0S7euQgNp94NNjVPrKGW_pRfWMrRm28IGrTsm6B4ZKQ=s1600",
       title: "Video Chat App",
       caption: "Video Chat App",
       description: "",
@@ -802,7 +802,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1SkPr8lgw3XCNnLAWpcxlURNHQT64X47L",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYR-fWIF5iWA77sDpAxD6fPgjPSQF_whsyYxRj62_n7lbFqZUjkTWGCePQXHFaqh1JOhTm12d1PylQd9_y3RBUEzTJI1=s1600",
       title: "Dashboard Admin App",
       caption: "A React Admin Dashboard App",
       description:
@@ -824,7 +824,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1W9QRI4P5apKsgqDV-hkyB0RBkAaH_c2m",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYR8En6Q-nbclcUI4PqcdxFzeKuwsAL4O6OffRczGWOb1P3X-Uwp5CW1OYiikvOgXcdkhlEsT_1BlE7NERpDPzfqiniudw=s1600",
       title: "Chat App",
       caption: "A Teams like Chat App",
       description:
@@ -846,7 +846,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1Nl26WuI5Cd9iY-MVki9H3Txfw_T0XrXw",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSH5HxbsYMwivdm_Mm0pgiSEXDFBxUN1QWdGQ8epmZxxgUTRifTGV5gx1sG610vZ_vpr3bJLIAYR1NNpyU_vZ6tlVw2dw=s1600",
       title: "YouTube Clone Application",
       caption: "A modern YouTube Clone Application ",
       description:
@@ -868,7 +868,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1UDpqp1FpvtgW_2f9_Y-Kp62nxSmb1Z-L",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQC5VsI87302wK2mypNAjic0JcwUHmHvPS5YwbSC_EQkzlfpssf-Y-WyoMxwkedSbxEWXEHb4jnOCs9k8GzAIiyP8RP=s1600",
       title: "AI Article Summarizer",
       caption: "AI Article Summarizer usin Rapid-API",
       description:
@@ -890,7 +890,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1KCe-Fz2KfVQuFIdx0LKdSRbV72wUtWUO",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQ3SJMR5v6ptsgp8sQxXOEiVrJmwX4HEjbpdOFKApRkO_qUx6mM72dtbc9mKe5PgfEEvhAKiWzUGAghEhYDwvjwYgofyg=s1600",
       title: "Gym Fitness App",
       caption: "Fitness Exercises App With APIs",
       description: "Modern Fitness Exercises App using two separate APIs!",
@@ -911,7 +911,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1HJVpwGLmoincWzKStFBB5Csc2XpcUEGp",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTQUNt29H0UbgNtupghT1LFIJ7BqcH6oJEzD5YPBGsayD9m3yfNC90PzDoVYZxDzVFG4y_37rypPzO_ecwevrjgL9xPVA=s1600",
       title: "Cryptocurrency App",
       caption: "React Cryptocurrency App with Master Redux Toolkit",
       description:
@@ -933,7 +933,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1f9FdfyilHvscCHi9gw4DdWD3Vq0amSvW",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTDSq2pyFBCe9hQq8vfAlbVCBUMUdYWkySAceRjMN4OtorPmchDnnjw7GHlCYMOKY3Zp7fWIpVipUqtmemmQQITTY0AMA=s1600",
       title: "E-commerce Shop App",
       caption: "Build & Deploy an Amazing App | React.js, Commerce.js, Stripe",
       description:
@@ -955,7 +955,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1SluHkW_h8-3YgVlzzbU0wf_w3lk-xGyn",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSt4daaaMEqWXSK9l6ieq-qx6FLWmy8hrlEoDZ7-cntYvcezT9kOBpf_fYWNUtLg-_KECO_351OoeotX4c3MVVfwp4P-A=s1600",
       title: "Business Landing App",
       caption: "Fully Responsive Website with Modern UI/UX",
       description:
@@ -977,7 +977,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1UWg2S-ww3OZIZdmpvm8qRC6eiAHeRHjN",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQSYa3UMceeP5kFl8s2EG8mKhk0Jn3K7ZF5IMsqXSnPqxr7gaxNZXXWfxB8FBDulZK9cuHVVMR-OMm44zu-YSh7P_ythw=s1600",
       title: "Restaurant App",
       caption: "Fully Responsive Restaurant App",
       description:
@@ -999,7 +999,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1J46PFNqO5L37y0PxfsS35_XdEtWdKINi",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRztt4qmk3Rhkl5gaN7JZJw1K_b7DGkvFPTKeQouKldiGu1a7xdePY3sIEsa1C8xb35avNNJb4de_cy-yDXxFKROIqK=s1600",
       title: "GPT-3 App",
       caption: "Fully Responsive GPT-3 App",
       description:
@@ -1021,7 +1021,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1FW9n1iReOb2zxXECrwgKUGumawpwuQhF",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTV-c8OGKbGY9l58OLygWZdDSna-rqESWES2Dz9ioE7FpiluPYA2XK7xvDk-NV5nPYQdf5BUD-YBxM9f2WVO3JkOTLZ=s1600",
       title: "Covid 19 Tracker App 1",
       caption: "Covid 19 Tracker Version 1",
       description:
@@ -1043,7 +1043,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1k1e5I0Na1_34-6FF4CgDeBfB_oe_mXAQ",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSeYbYtl-K1Cwlq55pEflYvHORTZ5MpD4-vuMHG3L7X7lEjAx2qZykik6PKgtHHgGf2JhOi5YScPw0ZbP3Rfd1L4BfpJw=s1600",
       title: "Alan AI News App",
       caption: "AI News App",
       description:
@@ -1065,7 +1065,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1dKMwKT0gCc7AtArGE6N_PLZqRl8I4gU0",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTYGI-rGnZdFX-ifXomQe_LwNguS-pqwVYnVsNXxSvpR-wfzWWlyXk9hAI7jER5aXycybuRM6DI-VjTIhDH8FRLt1APbw=s1600",
       title: "HOT or COLD Game",
       caption: "Prediction Game",
       description:
@@ -1087,7 +1087,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1JxOI4Rm7GBN_Fk9qmT97RcpqjX9PnAXm",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYS-ZdPmoaOJOTqf_8o1zxAde9VSpoaeBb6mAHVTe34-DMdI9k32eF__Ip87RcwnaOYuYWWvJ9RoHeWhslhForX2IGLm6g=s1600",
       title: "Advice Generator",
       caption: "Advice Generator",
       description: "Advice generator app using an API",
@@ -1108,7 +1108,7 @@ export default {
     {
       tag: "React JS",
       image:
-        "https://drive.google.com/uc?export=download&id=12J5p1rFiFJMNBhB_fMnNMH5rE2HBLNGO",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQJu2JIlIpRLD6HOLFe7il_ahIY_55uycoVNNJLKGjpu2ltPW7hIbB3DXG4clQzARYsgz6YqR6DQ_e27lJldNp-wzqzNw=s1600",
       title: "Face Landmark Detection App",
       caption: "Landmark Detecotor",
       description:
@@ -1131,7 +1131,7 @@ export default {
     {
       tag: "Node JS",
       image:
-        "https://drive.google.com/uc?export=download&id=1TZYdl9JL5I-DuuCh-MAKVZm4UXeWLl5s",
+        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQBKl2rzTvJszopZEGTvTMN3ju3_jLSCzTTC7CLmuLigtM-l_nhbjkJ1d1E2MEIKKOJhXm5n3oEfNVSm0IibCh_7CCeWA=s1600",
       title: "Amazon Product Scraper API",
       caption: "Amazon Product Scraper API",
       description: "Amazon Product Scraper API",
