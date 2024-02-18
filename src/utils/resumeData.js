@@ -70,7 +70,7 @@ export default {
       title: "Engineering National Diploma",
       description:
         "• National Diploma in Information Technology Engineering (Internet of Things) from Private Higher School of Engineering and Technology (ESPRIT)",
-      date: "09/2017 - Present",
+      date: "09/2017 - 06/2021",
     },
 
     {
@@ -479,28 +479,6 @@ export default {
         },
         {
           link: "https://next-event-platform-app.vercel.app",
-          icon: <Language />,
-        },
-      ],
-    },
-    //#endregion
-
-    //#region E-commerce Admin Dashboard App
-    {
-      tag: "Next JS",
-      image:
-        "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRIlqxSdhb73cJcYpp62BPG9qKPx5sAasRGiwH8YWq6P_c3HBI86QNna7tI-wAmVQFC9SK5W7haXdGgMHBrBvJ9svAPjw=s1600",
-      title: "E-commerce Admin Dashboard App",
-      caption: "Next-JS E-Commerce Admin Dashboard App",
-      description:
-        "A Next-JS E-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript and Payload CMS.",
-      links: [
-        {
-          link: "https://github.com/iradbouzidi/next-ecommerce-admin-dashboard-app",
-          icon: <GitHub />,
-        },
-        {
-          link: "https://next-ecommerce-admin-dashboard-app.payloadcms.app/",
           icon: <Language />,
         },
       ],
